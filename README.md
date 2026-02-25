@@ -8,10 +8,10 @@ Prácticas Diseño Interfaces de Usuario (Tema: Hamburguerserías )
 Actualizado: 25/02/2026
 
 
+<br><br><br>
 
 
 
-<br>
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
