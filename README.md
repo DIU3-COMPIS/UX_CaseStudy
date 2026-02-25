@@ -23,19 +23,14 @@ Actualizado: 25/02/2026
 >>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
-Grupo: DIU3_AntonioManueldePablosPancorbo_AlbertoRodriguezFernandez.COMPIS  Curso: 2025/26 
+Grupo: DIU3_AntonioManueldePablosPancorbo/AlbertoRodriguezFernandez.COMPIS  
+Curso: 2025/26 
 
-Nombre del Proyecto: 
+Nombre del Proyecto: >>> Decida el nombre corto de su propuesta en la práctica 2 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Descripción: >>> Describa la idea de su producto en la práctica 2 
 
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
-
-Logotipo: 
-
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+Logotipo: >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  ANTONIO MANUEL DE PABLOS PANCORBO    :octocat: https://github.com/amdepabloss    
@@ -44,10 +39,6 @@ Miembros y nombre del equipo:
 <br>
 
 # Proceso de Diseño 
-
-
-
-
 
 <br>
 
