@@ -5,23 +5,13 @@ Prácticas Diseño Interfaces de Usuario (Tema: Hamburguerserías )
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
 * Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
 
-
-
-
 Actualizado: 25/02/2026
 
 
 
 
 
-
-
-
-
-
-
-
-
+<br>
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
