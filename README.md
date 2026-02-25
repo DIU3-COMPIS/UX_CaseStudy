@@ -13,6 +13,15 @@ Actualizado: 25/02/2026
 
 
 
+
+
+
+
+
+
+
+
+
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
