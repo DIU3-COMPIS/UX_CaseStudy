@@ -12,7 +12,7 @@ Actualizado: 25/02/2026
 
 
 
-## Paso 0 My UX-Case Study
+## Paso 0. My UX-Case Study
 
 Grupo: DIU3_AntonioManueldePablosPancorbo/AlbertoRodriguezFernandez.COMPIS  
 
