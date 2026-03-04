@@ -1,5 +1,5 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: Hamburguerserías ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Hamburguerserías) 
 
 * [Guiones de prácticas](GuionesPracticas/)
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
