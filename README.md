@@ -48,11 +48,11 @@ Curso: 2026
 
 Actualizado: 04/03/2026
 
-Nombre del Proyecto:           >>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre del Proyecto: TODO          
+ 
+Descripción: TODO                 
 
-Descripción:                   >>> Describa la idea de su producto en la práctica 2 
-
-Logotipo:                      >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+Logotipo y Slogan: TODO                      
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  ANTONIO MANUEL DE PABLOS PANCORBO    :octocat: https://github.com/amdepabloss    
