@@ -288,7 +288,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 <br><br>
 
 
-## Conclusiones finales & Valoración de las práctica
+## Conclusiones Finales y Valoración de las Prácticas
 
 
 >>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
