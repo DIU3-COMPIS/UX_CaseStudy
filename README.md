@@ -34,9 +34,6 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
    valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se ha aprendido del proceso? ¿Qué se puede mejorar? 
 
 
-Actualizado: 04/03/2026
-
-
 <br><br><br>
 
 
@@ -45,6 +42,8 @@ Actualizado: 04/03/2026
 Grupo: DIU3_AntonioManueldePablosPancorbo/AlbertoRodriguezFernandez.COMPIS  
 
 Curso: 2025/26 
+
+Actualizado: 04/03/2026
 
 Nombre del Proyecto:           >>> Decida el nombre corto de su propuesta en la práctica 2 
 
