@@ -134,14 +134,14 @@ Miembros y nombre del equipo:
 
 
 
-### 2.b User Flow (task) analysis 
+### 2.c User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
-### 2.c IA: Sitemap + Labelling 
+### 2.d IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
@@ -152,7 +152,7 @@ Término | Significado
   Login  | acceder a plataforma
 
 
-### 2.d Wireframes
+### 2.e Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
