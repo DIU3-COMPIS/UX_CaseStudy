@@ -37,6 +37,10 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
 <br><br><br>
 
 
+# Proceso de Diseño 
+
+<br>
+
 ## Paso 0. My UX-Case Study
 
 Grupo: DIU3_AntonioManueldePablosPancorbo/AlbertoRodriguezFernandez.COMPIS  
@@ -56,12 +60,8 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette:  ALBERTO RODRÍGUEZ FERNÁNDEZ     :octocat: https://github.com/AlbertoRodriguezFernandez
 
 
-<br><br><br>
+<br><br>
 
-
-# Proceso de Diseño 
-
-<br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
@@ -103,7 +103,9 @@ Miembros y nombre del equipo:
 >>> - URL y Valoración numérica obtenida: 
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
-<br>
+
+<br><br>
+
 
 ## Paso 2. UX Design  
 
