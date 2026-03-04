@@ -189,7 +189,7 @@ Término | Significado
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 
-### 3.d Mockup
+### 3.d Maquetas
 ![Método UX](img/mockup.png) 
 ----
 
