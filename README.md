@@ -14,7 +14,7 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
 <br>
 
 
-## Pasos: 
+# Pasos
 
 * **Datos del proyecto** (en cabecera del documento) 
   * Nombre del proyecto, logotipo, tipología (depende del grupo de prácticas) y breve descripción del proyecto
