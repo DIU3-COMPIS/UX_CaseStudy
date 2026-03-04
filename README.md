@@ -48,7 +48,7 @@ Curso: 2026
 
 Actualizado: 04/03/2026
 
-Nombre del Proyecto:           >>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre del Proyecto:           ----->>> Decida el nombre corto de su propuesta en la práctica 2 
 
 Descripción:                   >>> Describa la idea de su producto en la práctica 2 
 
