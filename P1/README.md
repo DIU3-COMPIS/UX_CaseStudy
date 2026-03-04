@@ -6,4 +6,4 @@
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
->>>> VALORACIÓN FINAL DEL EQUIPO SOBRE LA REALIZACIÓN DE LA PRÁCTICA
+>>>> TODO: valoración final del equipo sobre la realización de la práctica 1
