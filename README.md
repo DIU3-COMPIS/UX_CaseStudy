@@ -36,7 +36,6 @@ Actualizado: 04/03/2026
 <br><br><br>
 
 
-
 ## Paso 0. My UX-Case Study
 
 Grupo: DIU3_AntonioManueldePablosPancorbo/AlbertoRodriguezFernandez.COMPIS  
@@ -53,7 +52,9 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette:  ANTONIO MANUEL DE PABLOS PANCORBO    :octocat: https://github.com/amdepabloss    
  * :bust_in_silhouette:  ALBERTO RODRÍGUEZ FERNÁNDEZ     :octocat: https://github.com/AlbertoRodriguezFernandez
 
-<br>
+
+<br><br><br>
+
 
 # Proceso de Diseño 
 
