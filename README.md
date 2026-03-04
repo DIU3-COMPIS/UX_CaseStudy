@@ -10,6 +10,10 @@ Ahora mismo es un "esqueleto" que contiene y organiza la información que se esp
 Se tiene que redactar correctamente y eliminiar todo lo que no sea necesario, respetando la estructura general del proceso. 
 Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **valorará la calidad de la exposición del Caso de Estudio y la información incluida**. 
 
+
+<br><br><br>
+
+
 ## Pasos: 
 
 * **Datos del proyecto** (en cabecera del documento) 
