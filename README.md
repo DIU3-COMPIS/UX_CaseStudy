@@ -41,7 +41,7 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
 
 Grupo: DIU3_AntonioManueldePablosPancorbo/AlbertoRodriguezFernandez.COMPIS  
 
-Curso: 2025/26 
+Curso: 2026 
 
 Actualizado: 04/03/2026
 
