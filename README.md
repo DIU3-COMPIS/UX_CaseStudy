@@ -11,7 +11,7 @@ Se tiene que redactar correctamente y eliminiar todo lo que no sea necesario, re
 Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **valorará la calidad de la exposición del Caso de Estudio y la información incluida**. 
 
 
-<br><br><br>
+<br><br>
 
 
 ## Pasos: 
