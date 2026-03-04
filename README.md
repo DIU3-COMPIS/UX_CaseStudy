@@ -160,7 +160,9 @@ Término | Significado
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
-<br>
+
+<br><br>
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
@@ -198,7 +200,8 @@ Término | Significado
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 
-<br>
+<br><br>
+
 
 ## Paso 4. Pruebas de Evaluación 
 
@@ -266,8 +269,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
 
+<br><br>
 
-<br>
 
 ## Paso 5. Exportación y Documentación 
 
@@ -286,7 +289,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
 
 
-<br>
+<br><br>
+
 
 ## Conclusiones finales & Valoración de las prácticas
 
