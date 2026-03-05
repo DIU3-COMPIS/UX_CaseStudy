@@ -61,7 +61,7 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette:  ALBERTO RODRÍGUEZ FERNÁNDEZ     :octocat: https://github.com/AlbertoRodriguezFernandez
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 ## Paso 1. UX User & Desk Research & Analisis 
