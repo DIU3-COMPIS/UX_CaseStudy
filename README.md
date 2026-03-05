@@ -69,7 +69,11 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+El sector de las hamburguesas gourmet ha transformado el concepto tradicional de comida rápida en una experiencia premium y altamente demandada. Para nuestro caso de estudio hemos seleccionado la plataforma digital de Goiko, ya que representa un punto de contacto crítico donde los usuarios exploran la carta, personalizan sus pedidos y gestionan reservas.
+
+El objetivo principal de este plan de investigación de usuarios es comprender en profundidad cómo interactúan diferentes perfiles de clientes con la web, desde un estudiante universitario buscando una cena rápida hasta un grupo de amigos planeando un evento. Nuestra estrategia de investigación se estructurará en varias fases clave: primero, realizaremos un análisis competitivo frente a otras marcas del sector para establecer un marco de referencia. Posteriormente, definiremos a nuestros usuarios objetivo mediante la creación de "Personas" y trazaremos sus "Journey Maps" para visualizar sus pasos, emociones y puntos de fricción reales.
+
+A través de este enfoque práctico, evaluaremos la usabilidad general del sitio, la arquitectura de la información y la claridad visual. Buscaremos detectar oportunidades de diseño que permitan optimizar el flujo de interacción, garantizando que la experiencia digital del usuario esté a la misma altura que la calidad de su oferta gastronómica.
 
 
 ### 1.b Competitive Analysis
