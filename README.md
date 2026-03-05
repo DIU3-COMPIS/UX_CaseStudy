@@ -115,7 +115,7 @@ Sin embargo, Goiko es superior a la hora de tenerlo todo en su propia página (n
 Para nuestro caso de estudio de Goiko, hemos seleccionado dos perfiles de usuarios muy habituales en este tipo de restaurantes de comida rápida premium, pero con necesidades y "puntos de dolor" completamente distintos a la hora de usar la plataforma digital.
 
 
-**Persona 1: Pedro, el organizador Erasmus  **
+**Persona 1: Pedro, el organizador Erasmus** <br>
 ![Ficha de Pedro](./P1/persona1.png)
 
 Pedro (22 años) es un estudiante italiano de Erasmus en Granada. Es muy social y siempre le toca organizar las cenas de su grupo. Hemos elegido a este perfil porque representa al usuario que necesita usar el **sistema de reservas** de la web. Su principal frustración es no poder ver rápido la disponibilidad para grupos grandes y no entender si puede separar la cuenta, ya que su presupuesto de estudiante es ajustado.
@@ -124,7 +124,7 @@ Captura de Pedro y enlace de Figma
 
 <br>
 
-**Persona 2: Irene, la foodie intolerante  **
+**Persona 2: Irene, la foodie intolerante** <br>
 ![Ficha de Irene](./P1/persona2.png)
 
 Irene (28 años) es una diseñadora gráfica local que trabaja desde casa. Le encanta pedir comida a domicilio los viernes para desconectar ("delivery"). Hemos elegido a este perfil porque es celíaca. Representa al usuario que necesita **información de alérgenos** urgente. Su mayor miedo al usar la web de Goiko es no encontrar la opción de "pan sin gluten" o no poder dejar una nota al restaurante sobre la contaminación cruzada al hacer su pedido.
