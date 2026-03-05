@@ -94,7 +94,7 @@ Para entender cómo mejorar la web de Goiko, hemos comparado nuestra página con
 | **Información de alergias** | La información está, pero tienes que buscarla y no destaca a simple vista. | Regular. Se centran más en los ingredientes que en avisar de alérgenos. | Muy básica. Faltan avisos claros para personas con intolerancias. |
 | **Diseño visual (Atractivo)** | Muy moderno, llamativo y da sensación de sitio caro y de calidad. | Estilo muy urbano y moderno, pega mucho con la ciudad de Granada. | Diseño muy simple, parece más un menú digital de pedir que una web completa. |
 
-**Conclusión del análisis (Justificación)**
+**Justificación**
 
 Hemos elegido a Mostaza Green y Kannibal porque son competencia directa de Goiko en Granada: venden hamburguesas de estilo *smash* y gourmet, y su público son jóvenes y estudiantes. Elegir competencia local nos sirve para ver qué están acostumbrados a usar los granadinos cuando quieren cenar fuera.
 
