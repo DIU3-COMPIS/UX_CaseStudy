@@ -4,6 +4,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Hamburguerserías)
 * [Guiones de prácticas](GuionesPracticas/)
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
 * Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
+* [Recursos/plantillas en figma](https://www.figma.com/design/BN2IR0q2clOSplfMmalh9K/DIU_Toolkit_Framework--2026-)
 
 El documento **README.md** del repositorio UX_CaseStudy es el esqueleto del documento de caso de estudio UX de la aplicación a desarrollar. 
 Ahora mismo es un "esqueleto" que contiene y organiza la información que se espera en cada paso. 
