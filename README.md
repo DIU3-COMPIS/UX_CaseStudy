@@ -121,7 +121,7 @@ Para nuestro caso de estudio de Goiko, hemos seleccionado dos perfiles de usuari
 
 Captura de Figma
 
-Pedro (22 años) es un estudiante italiano de Erasmus en Granada. Es muy social y siempre le toca organizar las cenas de su grupo. Hemos elegido a este perfil porque representa al usuario que necesita usar el **sistema de reservas** de la web. Su principal frustración es no poder ver rápido la disponibilidad para grupos grandes y no entender si puede separar la cuenta, ya que su presupuesto de estudiante es ajustado.
+Pedro (22 años) es un estudiante italiano de Erasmus en Granada. Es muy social y siempre le toca organizar las cenas de su grupo. Hemos elegido a este perfil porque representa al usuario que necesita usar el **sistema de reservas** de la web. Su principal frustración es no poder ver rápido la disponibilidad para grupos grandes y no entender si puede separar la cuenta, ya que su presupuesto de estudiante es ajustado. Puede que en la imagen, no aparente la edad que tiene, pero es debido a su enorme frustación lo que le hace parecer mayor.
 
 * [📄 Ver nuestro usuario Pedro](./P1/TODO)
 
