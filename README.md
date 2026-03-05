@@ -146,6 +146,9 @@ Irene (28 años) es una diseñadora gráfica local que trabaja desde casa. Le en
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
+<br>
+
+
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
