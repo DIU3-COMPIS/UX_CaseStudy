@@ -12,7 +12,7 @@ Se tiene que redactar correctamente y eliminiar todo lo que no sea necesario, re
 Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **valorará la calidad de la exposición del Caso de Estudio y la información incluida**. 
 
 
-<br>
+<br><br>
 
 
 # Pasos
@@ -35,7 +35,7 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
    valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se ha aprendido del proceso? ¿Qué se puede mejorar? 
 
 
-<br><br><br>
+<br><br>
 
 
 # Proceso de Diseño 
