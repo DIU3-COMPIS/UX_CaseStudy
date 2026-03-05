@@ -112,8 +112,6 @@ Sin embargo, Goiko es superior a la hora de tenerlo todo en su propia página (n
 ![Método UX](img/Persona.png) 
 -----
 
-### 1.c Personas
-
 Para nuestro caso de estudio de Goiko, hemos seleccionado dos perfiles de usuarios muy habituales en este tipo de restaurantes de comida rápida premium, pero con necesidades y "puntos de dolor" completamente distintos a la hora de usar la plataforma digital.
 
 **Persona 1: Pedro, el organizador Erasmus**
