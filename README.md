@@ -75,6 +75,8 @@ El objetivo principal de este plan de investigación de usuarios es comprender e
 
 A través de este enfoque práctico, evaluaremos la usabilidad general del sitio, la arquitectura de la información y la claridad visual. Buscaremos detectar oportunidades de diseño que permitan optimizar el flujo de interacción, garantizando que la experiencia digital del usuario esté a la misma altura que la calidad de su oferta gastronómica.
 
+* [📄 Ver nuestro UX Research Plan (PDF)](./P1/P1-2b User Research Plan.pdf)
+
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
