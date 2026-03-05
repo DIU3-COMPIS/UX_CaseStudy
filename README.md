@@ -102,6 +102,8 @@ Al ver la tabla comparativa, sacamos una conclusión muy clara: las webs de Gran
 
 Sin embargo, Goiko es superior a la hora de tenerlo todo en su propia página (no te mandan a Glovo o Uber Eats para todo). Nuestra conclusión es que para mejorar Goiko deberíamos aprender de la competencia de Granada: hay que intentar que la web sea más directa, más rápida de leer y, sobre todo, poner mucho más fácil y a la vista la información de los ingredientes y las alergias para no frustrar a los clientes.
 
+* [📄 Ver nuestro Análisis Competitivo (PDF)](./P1/Analisis_Competitivo.pdf)
+
 
 <br>
 
