@@ -40,8 +40,6 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
 
 # Proceso de Diseño 
 
-<br>
-
 ## Paso 0. My UX-Case Study
 
 Grupo: DIU3_AntonioManueldePablosPancorbo/AlbertoRodriguezFernandez.COMPIS  
