@@ -85,8 +85,6 @@ A través de este enfoque práctico, evaluaremos la usabilidad general del sitio
 ![Método UX](img/Competitive.png) 
 -----
 
-### 1.b Análisis de la competencia
-
 Para entender cómo mejorar la web de Goiko, hemos comparado nuestra página con dos de las hamburgueserías más fuertes y conocidas a nivel local en Granada: **Mostaza Green Burger** y **Kannibal Smash Burger**.
 
 | Característica a evaluar | Goiko (Nuestro caso) | Mostaza Green Burger (Competidor 1) | Kannibal Smash Burger (Competidor 2) |
