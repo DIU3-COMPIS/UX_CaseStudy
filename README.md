@@ -80,7 +80,7 @@ A través de este enfoque práctico, evaluaremos la usabilidad general del sitio
 * [📄 Ver nuestro Plan de Investigación de Usuarios (PDF)](./P1/Plan_Investigacion_Usuarios.pdf)
 
 
-<br>
+<br><br>
 
 
 ### 1.b Competitive Analysis
@@ -107,7 +107,7 @@ Sin embargo, Goiko es superior a la hora de tenerlo todo en su propia página (n
 * [📄 Ver nuestro Análisis Competitivo (PDF)](./P1/Analisis_Competitivo.pdf)
 
 
-<br>
+<br><br>
 
 
 ### 1.c Personas
@@ -137,7 +137,7 @@ Irene (28 años) es una diseñadora gráfica local que trabaja desde casa. Le en
 * [📄 Ver nuestra usuaria Irene](./P1/TODO)
 
 
-<br>
+<br><br>
 
 
 ### 1.d User Journey Map
@@ -147,7 +147,7 @@ Irene (28 años) es una diseñadora gráfica local que trabaja desde casa. Le en
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
-<br>
+<br><br>
 
 
 ### 1.e Usability Review
