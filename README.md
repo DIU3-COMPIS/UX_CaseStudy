@@ -192,6 +192,15 @@ Al hacer el análisis detallado, nos hemos dado cuenta de que la web de Goiko ti
 * **Puntos débiles:** Tanta foto gigante, animaciones y vídeos hacen que la web cargue lenta en móviles si no tienes buena cobertura. Además, peca de querer enseñarte demasiadas promociones (pop-ups) de golpe, lo que marea un poco. Lo que más le penaliza la nota es que la información crucial, como los alérgenos o el teléfono de contacto para problemas, está demasiado escondida. En resumen: es muy bonita, pero a veces poco práctica si el usuario va con prisas.
 
 
+<br><br>
+
+
+### 1.e Resumen y Valoración Final
+----
+
+Hola, TODO
+
+
 <br><br><br><br>
 
 
