@@ -179,11 +179,16 @@ Para terminar esta primera fase, hemos evaluado la web oficial de Goiko usando u
 * **URL evaluada:** https://www.goiko.com
 * **Valoración numérica:** 72 / 100 (Riesgo moderado / Bueno)
 
+<br>
+
 **Comentario sobre la revisión:**
 
 Al hacer el análisis detallado, nos hemos dado cuenta de que la web de Goiko tiene bastantes "luces y sombras":
 
 * **Puntos fuertes:** Visualmente es espectacular y cumple muy bien su objetivo de dar hambre. Las fotos son de altísima calidad, la marca tiene muchísima personalidad y es un puntazo que tengan su propio sistema integrado para pedir a domicilio y reservar, sin depender siempre de apps externas.
+
+<br>
+  
 * **Puntos débiles:** Tanta foto gigante, animaciones y vídeos hacen que la web cargue lenta en móviles si no tienes buena cobertura. Además, peca de querer enseñarte demasiadas promociones (pop-ups) de golpe, lo que marea un poco. Lo que más le penaliza la nota es que la información crucial, como los alérgenos o el teléfono de contacto para problemas, está demasiado escondida. En resumen: es muy bonita, pero a veces poco práctica si el usuario va con prisas.
 
 
