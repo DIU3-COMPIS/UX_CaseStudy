@@ -115,7 +115,7 @@ Sin embargo, Goiko es superior a la hora de tenerlo todo en su propia página (n
 
 Para nuestro caso de estudio de Goiko, hemos seleccionado dos perfiles de usuarios muy habituales en este tipo de restaurantes de comida rápida premium, pero con necesidades y "puntos de dolor" completamente distintos a la hora de usar la plataforma digital.
 
-<br><br>
+<br>
 
 **Persona 1: Irene, la foodie intolerante** <br>
 
@@ -125,7 +125,7 @@ Irene (28 años) es una diseñadora gráfica local que trabaja desde casa. Le en
 
 * [📄 Ver nuestra usuaria Irene](./P1/TODO)
 
-<br>
+<br><br>
 
 **Persona 2: Pedro, el organizador Erasmus** <br>
 
