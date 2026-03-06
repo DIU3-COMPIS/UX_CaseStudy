@@ -173,10 +173,18 @@ Pedro intenta reservar una mesa para 8 personas un sábado por la noche. Hemos e
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Para terminar esta primera fase, hemos evaluado la web oficial de Goiko usando una plantilla de revisión de usabilidad (Checklist). Esto nos sirve para ponerle una "nota" objetiva a la página y ver exactamente en qué apartados técnicos y de diseño flaquea.
+
+* **Enlace al documento:** [📄 Ver revisión de usabilidad de Goiko](./P1/Usability_Review_Goiko.pdf)
+* **URL evaluada:** https://www.goiko.com
+* **Valoración numérica:** 72 / 100 (Riesgo moderado / Bueno)
+
+**Comentario sobre la revisión:**
+
+Al hacer el análisis detallado, nos hemos dado cuenta de que la web de Goiko tiene bastantes "luces y sombras":
+
+* **Puntos fuertes:** Visualmente es espectacular y cumple muy bien su objetivo de dar hambre. Las fotos son de altísima calidad, la marca tiene muchísima personalidad y es un puntazo que tengan su propio sistema integrado para pedir a domicilio y reservar, sin depender siempre de apps externas.
+* **Puntos débiles:** Tanta foto gigante, animaciones y vídeos hacen que la web cargue lenta en móviles si no tienes buena cobertura. Además, peca de querer enseñarte demasiadas promociones (pop-ups) de golpe, lo que marea un poco. Lo que más le penaliza la nota es que la información crucial, como los alérgenos o el teléfono de contacto para problemas, está demasiado escondida. En resumen: es muy bonita, pero a veces poco práctica si el usuario va con prisas.
 
 
 <br><br><br><br>
