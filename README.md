@@ -123,17 +123,15 @@ Para nuestro caso de estudio de Goiko, hemos seleccionado dos perfiles de usuari
 
 Irene (28 años) es una diseñadora gráfica local que trabaja desde casa. Le encanta pedir comida a domicilio los viernes para desconectar ("delivery"). Hemos elegido a este perfil porque es celíaca. Representa al usuario que necesita **información de alérgenos** urgente. Su mayor miedo al usar la web de Goiko es no encontrar la opción de "pan sin gluten" o no poder dejar una nota al restaurante sobre la contaminación cruzada al hacer su pedido.
 
-* [📄 Ver nuestra usuaria Irene](./P1/TODO)
-
 <br><br>
 
 **Persona 2: Pedro, el organizador Erasmus** <br>
 
-Captura de Figma
+![Ficha de Pedro en Figma](./P1/foto_ficha_persona2.png)
 
 Pedro (22 años) es un estudiante italiano de Erasmus en Granada. Es muy social y siempre le toca organizar las cenas de su grupo. Hemos elegido a este perfil porque representa al usuario que necesita usar el **sistema de reservas** de la web. Su principal frustración es no poder ver rápido la disponibilidad para grupos grandes y no entender si puede separar la cuenta, ya que su presupuesto de estudiante es ajustado. Puede que en la imagen, no aparente la edad que tiene, pero es debido a su enorme frustación lo que le hace parecer mayor.
 
-* [📄 Ver nuestro usuario Pedro](./P1/TODO)
+* [📄 Ver nuestras personas](./P1/TODO)
 
 
 <br><br>
