@@ -143,7 +143,27 @@ Pedro (22 años) es un estudiante italiano de Erasmus en Granada. Es muy social 
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Para crear nuestros mapas de experiencia, hemos diseñado dos escenarios que son tremendamente habituales en el día a día de una hamburguesería como Goiko. Hemos puesto a nuestros usuarios a intentar cumplir sus objetivos principales para ver dónde la web les ayuda y dónde les genera frustración.
+
+<br>
+
+**Journey 1: Irene y el pedido a domicilio sin gluten** <br>
+
+![Journey de Irene en Figma](./P1/foto_journey_irene.png)
+
+Irene intenta pedir una cena a domicilio un viernes por la noche. Hemos elegido esta experiencia porque el "delivery" es uno de los servicios más usados en Goiko. Es una situación muy realista y común: un usuario con restricciones alimentarias (celiaquía) que necesita seguridad. En su viaje, vemos cómo la emoción de Irene cae en picado al darse cuenta de que la información de alérgenos no está clara durante el proceso de compra y no tiene un campo de texto libre para avisar a la cocina, generándole mucha ansiedad.
+
+* [📄 Ver nuestro journey de Irene](./P1/foto_journey_irene.png)
+
+<br><br>
+
+**Journey 2: Pedro y la reserva para un grupo grande** <br>
+
+![Journey de Pedro en Figma](./P1/foto_journey_pedro.png)
+
+Pedro intenta reservar una mesa para 8 personas un sábado por la noche. Hemos elegido esta experiencia porque las cenas de grupos de jóvenes y estudiantes son un pilar básico de este tipo de restaurantes. Es un caso de uso súper habitual. En su viaje, vemos cómo Pedro se frustra porque el sistema de reservas le pone trabas para grupos grandes, obligándole a dar vueltas por la web buscando un teléfono o intentando descifrar si en el local les dejarán pagar por separado.
+
+* [📄 Ver nuestro journey de Pedro](./P1/foto_journey_pedro.png)
 
 
 <br><br>
