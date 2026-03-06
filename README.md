@@ -149,11 +149,11 @@ Para crear nuestros mapas de experiencia, hemos diseñado dos escenarios que son
 
 **Journey 1: Irene y el pedido a domicilio sin gluten** <br>
 
-![Journey de Irene en Figma](./P1/foto_journey_irene.png)
+![Journey de Irene en Figma](./P1/foto_viaje_persona1.png)
 
 Irene intenta pedir una cena a domicilio un viernes por la noche. Hemos elegido esta experiencia porque el "delivery" es uno de los servicios más usados en Goiko. Es una situación muy realista y común: un usuario con restricciones alimentarias (celiaquía) que necesita seguridad. En su viaje, vemos cómo la emoción de Irene cae en picado al darse cuenta de que la información de alérgenos no está clara durante el proceso de compra y no tiene un campo de texto libre para avisar a la cocina, generándole mucha ansiedad.
 
-* [📄 Ver nuestro journey de Irene](./P1/foto_journey_irene.png)
+* [📄 Ver nuestro journey de Irene](./P1/foto_viaje_persona1.png)
 
 <br><br>
 
