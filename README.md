@@ -196,6 +196,7 @@ Al hacer el análisis detallado, nos hemos dado cuenta de que la web de Goiko ti
 
 
 ### 1.e Resumen y Valoración Final
+![Método UX](img/Persona.png) 
 ----
 
 Hola, TODO
