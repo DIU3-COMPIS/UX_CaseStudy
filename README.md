@@ -175,7 +175,7 @@ Pedro intenta reservar una mesa para 8 personas un sábado por la noche. Hemos e
 
 Para terminar esta primera fase, hemos evaluado la web oficial de Goiko usando una plantilla de revisión de usabilidad (Checklist). Esto nos sirve para ponerle una "nota" objetiva a la página y ver exactamente en qué apartados técnicos y de diseño flaquea.
 
-* **Enlace al documento:** [📄 Ver revisión de usabilidad de Goiko](./P1/Revision_Usabilidad.pdf)
+* **Enlace al documento:** [📄 Ver revisión de usabilidad de Goiko](./P1/Revisión_Usabilidad.pdf)
 * **URL evaluada:** https://www.goiko.com
 * **Valoración numérica:** 65 / 100 (Riesgo moderado / Bueno)
 
