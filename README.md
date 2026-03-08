@@ -195,11 +195,17 @@ Al hacer el análisis detallado, nos hemos dado cuenta de que la web de Goiko ti
 <br><br>
 
 
-### 1.f Resumen y Valoración Final del Paso 1
+### 1.f Resumen 
 ![Método UX](img/Persona.png) 
 ----
 
-Hola, TODO
+Como consultores expertos en Experiencia de Usuario (UX), hemos realizado una auditoría integral del sitio web oficial de Goiko. Nuestra evaluación concluye que, si bien la plataforma destaca por un diseño visualmente espectacular y una identidad de marca sobresaliente (obteniendo una puntuación general de usabilidad de 65/100), presenta deficiencias significativas en rendimiento, flexibilidad y control del usuario.
+
+El análisis revela que la interfaz está fuertemente orientada al marketing puro, priorizando imágenes y vídeos de altísima resolución. Esto penaliza severamente los tiempos de carga en dispositivos móviles con conexiones estándar, frustrando a usuarios en movimiento. Además, la atención del usuario compite constantemente contra una sobrecarga de pop-ups y banners promocionales.
+
+Mediante el modelado de usuarios (Personas) y mapas de experiencia (Journey Maps), hemos detectado "puntos de dolor" críticos al salir del flujo ideal (Happy Path). El motor de reservas es excesivamente rígido: bloquea solicitudes de grupos grandes sin ofrecer alternativas digitales, rompiendo la experiencia y obligando al usuario a recurrir a la llamada telefónica tradicional. Por otro lado, el proceso de pedido a domicilio falla en un aspecto vital como es la salud. La ausencia de filtros rápidos de alérgenos y la imposibilidad de dejar notas abiertas a la cocina genera gran ansiedad e inseguridad en clientes con restricciones alimentarias.
+
+En conclusión, Goiko.com es un producto digital estéticamente brillante, pero necesita evolucionar hacia un enfoque verdaderamente centrado en el usuario (User-Centric). Recomendamos aligerar la carga multimedia, dotar de flexibilidad a los formularios e implementar flujos de ayuda más accesibles.
 
 
 <br><br><br><br>
