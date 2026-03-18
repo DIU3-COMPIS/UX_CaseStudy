@@ -88,20 +88,20 @@ A través de este enfoque práctico, evaluaremos la usabilidad general del sitio
 
 Para entender cómo mejorar la web de Goiko, hemos comparado nuestra página con dos de las hamburgueserías más fuertes y conocidas a nivel local en Granada: **Mostaza Green Burger** y **Kannibal Smash Burger**.
 
-| Característica a evaluar | Goiko (Nuestro caso) | Mostaza Green Burger (Competidor 1) | Kannibal Smash Burger (Competidor 2) |
+| Característica a evaluar | Goiko (Nuestro caso) | Mostaza Green Burger (Competidor 1) | Sancho Casual Burger (Competidor 2) |
 | :--- | :--- | :--- | :--- |
-| **Facilidad para ver la carta** | Bien, pero tiene tantas fotos grandes que a veces cuesta encontrar rápido lo que buscas. | Muy fácil, directa al grano y separada por secciones claras. | Muy sencilla, pensada sobre todo para elegir rápido y pedir. |
-| **Reservas y pedidos online** | Tiene su propio sistema integrado, aunque a veces es un poco lioso reservar mesa. | Te informa bien, pero para pedir a veces dependes de apps externas. | Tiene un menú propio online muy directo para pedir a domicilio. |
-| **Información de alergias** | La información está, pero tienes que buscarla y no destaca a simple vista. | Regular. Se centran más en los ingredientes que en avisar de alérgenos. | Muy básica. Faltan avisos claros para personas con intolerancias. |
+| **Facilidad para ver la carta** | Bien, pero tiene tantas fotos grandes que a veces cuesta encontrar rápido lo que buscas. | Muy fácil, directa al grano y separada por secciones claras. | Muy sencilla, pensada sobre todo para elegir rápido y pedir. Dividida en diferentes apartados |
+| **Reservas y pedidos online** | Tiene un menú para pedir que te redirige a páginas externas. | Te informa bien, pero para pedir a veces dependes de apps externas. | Tiene un menú para pedir que te redirige a páginas externas. |
+| **Información de alergias** | La información está, pero tienes que buscarla y no destaca a simple vista. | Cuando se accede a la carta, hay un apartado de alérgenos pero no es muy intuitivo | Una vez dentro de la carta, debajo de cada hamburguesa aparecen los alérgenos. Muy intuitivo |
 | **Diseño visual (Atractivo)** | Muy moderno, llamativo y da sensación de sitio caro y de calidad. | Estilo muy urbano y moderno, pega mucho con la ciudad de Granada. | Diseño muy simple, parece más un menú digital de pedir que una web completa. |
 
 **Justificación**
 
-Hemos elegido a Mostaza Green y Kannibal porque son competencia directa de Goiko en Granada: venden hamburguesas de estilo *smash* y gourmet, y su público son jóvenes y estudiantes. Elegir competencia local nos sirve para ver qué están acostumbrados a usar los granadinos cuando quieren cenar fuera.
+Hemos elegido a Mostaza Green y Sancho Casual Burger porque son competencia directa de Goiko en Granada: venden hamburguesas de estilo *smash* y gourmet, y su público son jóvenes y estudiantes. Elegir competencia local nos sirve para ver qué están acostumbrados a usar los granadinos cuando quieren cenar fuera.
 
-Al ver la tabla comparativa, sacamos una conclusión muy clara: las webs de Granada van mucho más "al grano". Mientras que la web de Goiko a veces te marea con animaciones, anuncios de nuevas hamburguesas y fotos gigantes, sitios como Kannibal te ponen la carta delante casi al instante para que no pierdas el tiempo. Mostaza Green, por su parte, consigue tener un diseño muy chulo sin llegar a ser pesado.
+Al ver la tabla comparativa, sacamos una conclusión muy clara: las webs de Granada van mucho más "al grano". Mientras que la web de Goiko a veces te marea con animaciones, anuncios de nuevas hamburguesas y fotos gigantes, sitios como Sancho Casual Burger te ponen la carta delante casi al instante para que no pierdas el tiempo. Mostaza Green, por su parte, consigue tener un diseño muy chulo sin llegar a ser pesado.
 
-Sin embargo, Goiko es superior a la hora de tenerlo todo en su propia página (no te mandan a Glovo o Uber Eats para todo). Nuestra conclusión es que para mejorar Goiko deberíamos aprender de la competencia de Granada: hay que intentar que la web sea más directa, más rápida de leer y, sobre todo, poner mucho más fácil y a la vista la información de los ingredientes y las alergias para no frustrar a los clientes.
+Nuestra conclusión es que para mejorar Goiko deberíamos aprender de la competencia de Granada: hay que intentar que la web sea más directa, más rápida de leer y, sobre todo, poner mucho más fácil y a la vista la información de los ingredientes y las alergias para no frustrar a los clientes.
 
 * [📄 Ver nuestro Análisis Competitivo (PDF)](./P1/Analisis_Competitivo.pdf)
 
