@@ -161,7 +161,7 @@ Irene intenta pedir una cena a domicilio un viernes por la noche. Hemos elegido 
 
 ![Journey de Pedro en Figma](./P1/foto_viaje_persona2.png)
 
-Pedro intenta reservar una mesa para 8 personas un sábado por la noche. Hemos elegido esta experiencia porque las cenas de grupos de jóvenes y estudiantes son un pilar básico de este tipo de restaurantes. Es un caso de uso súper habitual. En su viaje, vemos cómo Pedro se frustra porque el sistema de reservas le pone trabas para grupos grandes, obligándole a dar vueltas por la web buscando un teléfono o intentando descifrar si en el local les dejarán pagar por separado.
+Pedro intenta reservar una mesa para 10 personas un sábado por la noche. Hemos elegido esta experiencia porque las cenas de grupos de jóvenes y estudiantes son un pilar básico de este tipo de restaurantes. Es un caso de uso súper habitual. En su viaje, vemos cómo Pedro se frustra porque el sistema de reservas le pone trabas para grupos grandes, obligándole a dar vueltas por la web buscando un teléfono o intentando descifrar si en el local les dejarán pagar por separado.
 
 * [📄 Ver nuestro journey de Pedro](./P1/foto_viaje_persona2.png)
 
