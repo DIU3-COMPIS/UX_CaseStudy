@@ -9,7 +9,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Hamburguerserías)
 
 El documento **README.md** del repositorio UX_CaseStudy es el esqueleto del documento de caso de estudio UX de la aplicación a desarrollar. 
 Ahora mismo es un "esqueleto" que contiene y organiza la información que se espera en cada paso. 
-Se tiene que redactar correctamente y eliminiar todo lo que no sea necesario, respetando la estructura general del proceso. 
+Se tiene que redactar correctamente y eliminar todo lo que no sea necesario, respetando la estructura general del proceso. 
 Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **valorará la calidad de la exposición del Caso de Estudio y la información incluida**. 
 
 
