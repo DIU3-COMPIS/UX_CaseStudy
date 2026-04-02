@@ -47,7 +47,7 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
 
 **Curso**: 2026 
 
-**Actualizado**: 08/03/2026
+**Actualizado**: 02/04/2026
 
 **Nombre del Proyecto**: Goiko's Change made by Compis         
  
