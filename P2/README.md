@@ -1,6 +1,6 @@
 ## DIU - Practica2, entregables
 
-### Ideación 
+### IDEACIÓN
 * Malla receptora de información 
 * Mapa de empatía
 * Point of View 
@@ -22,8 +22,8 @@
 * Labelling 
 
 
-### Prototipo Lo-FI Wireframe 
+### PROTOTIPO LO-FI WIREFRAME
 
 
-### Conclusiones  
+### CONCLUSIONES  
 (incluye valoración de esta etapa)
