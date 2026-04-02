@@ -261,6 +261,9 @@ La plataforma actual de Goiko es visualmente espectacular, pero estática, pesad
 Creemos que transformando la experiencia de compra tradicional en un entorno interactivo y gamificado inspirado en el mercado de valores (*Trading UI*), lograremos aumentar masivamente la retención del usuario. Al hacer que los precios fluctúen en tiempo real para "salvar" las hamburguesas menos demandadas (botón "Invertir"), incentivamos la exploración del menú. Si acompañamos esta interfaz divertida con una arquitectura técnica limpia, flujos de reserva transparentes desde el primer clic y filtros de alérgenos accesibles, mejoraremos la usabilidad general del servicio fusionando eficacia con entretenimiento.
 
 
+<br><br>
+
+
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
@@ -269,12 +272,17 @@ Creemos que transformando la experiencia de compra tradicional en un entorno int
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
 
+<br><br>
+
 
 ### 2.c User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+
+
+<br><br>
 
 
 ### 2.d IA: Sitemap + Labelling 
@@ -286,6 +294,9 @@ Creemos que transformando la experiencia de compra tradicional en un entorno int
 Término | Significado     
 | ------------- | -------
   Login  | acceder a plataforma
+
+
+<br><br>
 
 
 ### 2.e Wireframes
