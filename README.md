@@ -224,22 +224,31 @@ En conclusión, Goiko.com es un producto digital estéticamente brillante, pero 
 
 A modo de conclusión de la práctica anterior, observamos que competidores locales como *Sancho Casual Burger* ofrecen plataformas funcionales pero extremadamente monótonas ("añadir al carrito y pagar"). El sector carece de innovación y gamificación en la experiencia de compra. Para estructurar nuestro rediseño, primero analizamos a nuestro usuario tipo (Mapa de Empatía) y luego recogemos los hallazgos técnicos (Malla Receptora).
 
-#### 1. Empathy Map (Usuario: Pedro, estudiante joven)
-* **¿Qué piensa y siente?** Le encanta probar hamburguesas nuevas, pero su presupuesto de estudiante es ajustado. Siente frustración si una web va lenta o si le pone trabas para reservar una cena con todos sus amigos.
-* **¿Qué ve?** Apps de comida a domicilio clónicas y aburridas. Ofertas que parecen buenas pero tienen "letra pequeña" al ir a pagar.
-* **¿Qué dice y hace?** Busca activamente chollos y experiencias divertidas. Abandona las webs si le obligan a registrarse antes de ver la carta o si le dan error al final de una reserva.
-* **Esfuerzos (Pains):** Perder tiempo organizando a su grupo para que la web le impida reservar para más de 6 personas en el último paso.
-* **Resultados (Gains):** Conseguir comida premium a buen precio, reservar rápido y ser el "héroe" que descubre sitios originales al grupo.
+#### Empathy Map (Usuario: Pedro, organizador Erasmus)
+
+![Empathy Map de Pedro en Figma](./P2/EmpathyMapPedro.png)
+
+* [📄 Ver nuestro Empathy Map de Pedro](./P2/EmpathyMapPedro.png)
 
 <br>
 
-#### 2. Feedback Capture Grid (Malla Receptora)
+#### Empathy Map (Usuario: Irene, foodie intolerante)
+
+![Empathy Map de Irene en Figma](./P2/EmpathyMapIrene.png)
+
+* [📄 Ver nuestro Empathy Map de Irene](./P2/EmpathyMapIrene.png)
+
+<br>
+
+#### Feedback Capture Grid (Malla Receptora)
 
 | Interesante | Críticas |
 | :------------- | :------- |
 | **Marca:** Identidad visual muy potente y tono de voz gamberro y divertido.<br>**Autonomía:** Sistema propio integrado de reservas y pedidos a domicilio.<br>**Atractivo:** Fotografías de altísima calidad que generan deseo (*food porn*). | **Sobrecarga:** Exceso de vídeos y elementos que ralentizan drásticamente la web móvil.<br>**Rigidez:** Flujo de reservas muy frustrante para grupos grandes.<br>**Accesibilidad:** Información crucial sobre alérgenos demasiado oculta. |
 | **Preguntas** | **Nuevas ideas** |
 | ¿Cómo me aseguro al 100% de que mi pedido no tiene trazas de alérgenos?<br>¿Por qué no avisan del límite de comensales al principio de la reserva?<br>¿Cómo se decide qué burger baja de precio en el nuevo sistema de bolsa? | **Trading UI:** Un "Stock Market" de burgers donde el precio fluctúa según la popularidad.<br>**Modo Seguro:** Filtro instantáneo en el *ticker* para limpiar opciones con alérgenos.<br>**Transparencia:** Avisos dinámicos y claros de disponibilidad de mesas desde el paso 1. |
+
+* [📄 Ver nuestro Feedback Capture Grid](./P2/FeedbackCaptureGrid.png)
 
 <br>
 
