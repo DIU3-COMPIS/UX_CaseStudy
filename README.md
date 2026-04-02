@@ -43,15 +43,15 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
 
 ## Paso 0. My UX-Case Study
 
-Grupo: DIU3_AntonioManueldePablosPancorbo/AlbertoRodriguezFernandez.COMPIS  
+*Grupo*: DIU3_AntonioManueldePablosPancorbo/AlbertoRodriguezFernandez.COMPIS  
 
 Curso: 2026 
 
 Actualizado: 08/03/2026
 
-Nombre del Proyecto: TODO          
+Nombre del Proyecto: Goiko's Change made by Compis         
  
-Descripción: TODO                 
+Descripción: Nuestra propuesta transforma la plataforma digital de Goiko en un entorno interactivo y gamificado, inspirado en el mercado de valores. Bajo el concepto de explorar 'Sabores con encanto', hemos rediseñado su web para que el precio de las hamburguesas fluctúe en tiempo real según la demanda de la comunidad. Las burgers menos populares bajan de precio para ser 'rescatadas', incentivando a los usuarios a probar recetas diferentes mediante un botón de 'Invertir'. Todo esto se apoya sobre una interfaz rápida y optimizada, integrando filtros de alérgenos accesibles y solucionando los problemas de usabilidad detectados en el diseño actual de Goiko.                
 
 Logotipo y Slogan: TODO                      
 
