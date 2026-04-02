@@ -218,7 +218,7 @@ En conclusión, Goiko.com es un producto digital estéticamente brillante, pero 
 ## Paso 2. UX Design  
 
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / Ideacion: Feedback Capture Grid / Empathy Map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
