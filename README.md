@@ -333,16 +333,17 @@ Término | Significado
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
 
+- Wireframe de la Landing Page: 
+![Wireframe Landing Page](./P2/WireframeLandingPage.png)
 
-![Wireframe Landing Page](./P2/ScopeCanvas.png)
-
-* [📄 Ver nuestro Wireframe Landing Page](./P2/ScopeCanvas.png)
+* [📄 Ver nuestro Wireframe Landing Page](./P2/WireframeLandingPage.png)
 
 
+- Wireframe del Mercado de Hamburguesas:  
 
-![Wireframe Burger Market](./P2/Wireframe1 (Landing Page).png)
+![Wireframe Burger Market](./P2/WireframeBurgerMarket.png)
 
-* [📄 Ver nuestro Wireframe Burger Markete](./P2/ScopeCanvas.png)
+* [📄 Ver nuestro Wireframe Burger Market](./P2/WireframeBurgerMarket.png)
 
 <br><br><br><br>
 
