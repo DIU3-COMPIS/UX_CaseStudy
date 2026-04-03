@@ -228,9 +228,9 @@ A modo de conclusión de la práctica anterior, observamos que competidores loca
 
 #### Empathy Map de nuestros Usuarios
 
-![Empathy Map de nuestros Usuarios en Figma](./P2/EmpathyMap.png)
+![Empathy Map de nuestros Usuarios en Figma](./P2/Empathymap.png)
 
-* [📄 Ver nuestro Empathy Map de Usuarios](./P2/EmpathyMap.png)
+* [📄 Ver nuestro Empathy Map de Usuarios](./P2/Empathymap.png)
 
 <br>
 
