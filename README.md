@@ -269,18 +269,27 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 
 
 ### 2.c User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+#### 1. Reserva de mesa con precio congelado
+- User Map:
+- Task Flow: Este flujo describe el proceso desde que se entra en el mercado de hamburguesas para ver sus precios y
+  se termina reservando una mesa para un día concreto y así congelar el precio de la hamburguesa para ese día
+
+![UserFlowBookTable](./P2/UserFlowBookTable.png) 
+* [📄 Ver nuestro UserFlowBookTable](./P2/UserFlowBookTable.png) 
 -----
-
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
+#### 2. Inversión en Hamburguesa
+- User Map: 
+- Task Flow: Este flujo describe el proceso desde que el usuario detecta una oportunidad en el Mercado de hamburguesas hasta que confirma su compra (la de una hamburguesa con precio variable)
+![UserFlowBookTable](./P2/UserFlowInvestBurger.png) 
+* [📄 Ver nuestro UserFlowBookTable](./P2/UserFlowInvestBurger.png) 
+-----
 
 <br><br>
 
 
 ### 2.d IA: Sitemap + Labelling 
-![Método UX](./P2/Sitemap.png) 
-* [Ver nuestro SiteMap](./P2/Sitemap.png)
+![SiteMap](./P2/Sitemap.png) 
+* [📄 Ver nuestro SiteMap](./P2/Sitemap.png)
 ----
 
 Término | Significado     
