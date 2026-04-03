@@ -279,14 +279,30 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 
 
 ### 2.d IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
+![Método UX](./P2/Sitemap.png) 
+* [Ver nuestro SiteMap](./P2/Sitemap.png)
 ----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
 Término | Significado     
 | ------------- | -------
   Login  | acceder a plataforma
+  | Label (Etiqueta) | Scope Note (Descripción del contenido y funcionalidad) |
+| :--- | :--- |
+| **Home page** | Punto de entrada principal. Presenta el "Ticker" en vivo con las variaciones de precios y las ofertas más destacadas. |
+| **Mercado de Hamburguesas** | Panel dinámico donde los usuarios visualizan las burgers cuyo precio fluctúa según la demanda y popularidad social. |
+| **Carta clásica** | Menú tradicional de Goiko. Contiene los productos icónicos con precios fijos para usuarios que buscan rapidez sin variaciones. |
+| **Restaurantes** | Localizador geográfico de establecimientos físicos. |
+| **Conócenos** | Sección corporativa que incluye la historia de la marca, resolución de dudas (FAQ) y canales de atención al cliente. |
+| **Inicio sesión / Registro** | Portal de acceso para usuarios. Permite desbloquear las funciones de "Mi cartera", ver pedidos anteriores y administrar el perfil. |
+| **Carrito** | Pasarela intermedia de revisión de productos seleccionados antes de confirmar la compra final o el envío. |
+| **Reservar mesa** | Funcionalidad para asegurar sitio en el local. Para el "Mercado de Hamburguesas" permite al usuario "congelar" el precio actual de su burguer de mercado. |
+| **Hacer pedido** | Flujo final de transacción para envíos a domicilio (Delivery) o recogida en local (Take Away). |
+| **Administrar perfil** | Panel de configuración de datos personales, direcciones de envío y métodos de pago guardados. |
+| **Mi cartera** | Espacio de fidelización donde se gestionan las alertas de precios bajos y las hamburguesas marcadas como favoritas. |
+| **Pedidos anteriores** | Historial detallado de compras realizadas y seguimiento del "ahorro" obtenido al invertir en el mercado. |
+| **Footer** | Pie de página con acceso directo a redes sociales (Síguenos), información legal y datos rápidos de contacto. |
+
+  
 
 
 <br><br>
