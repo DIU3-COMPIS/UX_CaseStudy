@@ -224,6 +224,8 @@ En conclusión, Goiko.com es un producto digital estéticamente brillante, pero 
 
 A modo de conclusión de la práctica anterior, observamos que competidores locales como *Sancho Casual Burger* ofrecen plataformas funcionales pero extremadamente monótonas ("añadir al carrito y pagar"). El sector carece de innovación y gamificación en la experiencia de compra. Para estructurar nuestro rediseño, primero analizamos a nuestros usuarios tipo (Mapa de Empatía) y luego recogemos los hallazgos técnicos (Malla Receptora).
 
+<br>
+
 #### Empathy Map de nuestros Usuarios
 
 ![Empathy Map de nuestros Usuarios en Figma](./P2/EmpathyMap.png)
