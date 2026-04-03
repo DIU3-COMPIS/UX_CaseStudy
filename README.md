@@ -331,8 +331,18 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+>>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
 
+
+![Wireframe Landing Page](./P2/ScopeCanvas.png)
+
+* [📄 Ver nuestro Wireframe Landing Page](./P2/ScopeCanvas.png)
+
+
+
+![Wireframe Burger Market](./P2/Wireframe1 (Landing Page).png)
+
+* [📄 Ver nuestro Wireframe Burger Markete](./P2/ScopeCanvas.png)
 
 <br><br><br><br>
 
