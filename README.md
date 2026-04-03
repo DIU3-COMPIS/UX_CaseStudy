@@ -285,9 +285,6 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
-  | Label (Etiqueta) | Scope Note (Descripción del contenido y funcionalidad) |
-| :--- | :--- |
 | **Home page** | Punto de entrada principal. Presenta el "Ticker" en vivo con las variaciones de precios y las ofertas más destacadas. |
 | **Mercado de Hamburguesas** | Panel dinámico donde los usuarios visualizan las burgers cuyo precio fluctúa según la demanda y popularidad social. |
 | **Carta clásica** | Menú tradicional de Goiko. Contiene los productos icónicos con precios fijos para usuarios que buscan rapidez sin variaciones. |
