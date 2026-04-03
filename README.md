@@ -258,8 +258,9 @@ Creemos que transformando la experiencia de compra tradicional en un entorno int
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+![ScopeCanvas en Figma](./P2/ScopeCanvas.png)
+
+* [📄 Ver nuestro ScopeCanvas](./P2/ScopeCanvas.png)
 
 
 <br><br>
