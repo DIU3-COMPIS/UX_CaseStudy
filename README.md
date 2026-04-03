@@ -272,6 +272,7 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 
 #### User map
 | Tarea | Usuario Invitado | Cliente Registrado | Administrador    
+| ------------- | ------- | ------- | ------- |
 | **Ver Ticker de bolsa en vivo** | Alta | Alta | Media |
 | **Registrarse** | Alta | - | Baja |
 | **Iniciar sesión** | - | Alta | Baja |
