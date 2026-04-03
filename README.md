@@ -258,6 +258,8 @@ Creemos que transformando la experiencia de compra tradicional en un entorno int
 ![Método UX](img/ScopeCanvas.png)
 ----
 
+Con este ScopeCanvas mostramos nuestra propuesta de valor de forma más esquemática:
+
 ![ScopeCanvas en Figma](./P2/ScopeCanvas.png)
 
 * [📄 Ver nuestro ScopeCanvas](./P2/ScopeCanvas.png)
