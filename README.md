@@ -222,21 +222,13 @@ En conclusión, Goiko.com es un producto digital estéticamente brillante, pero 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
-A modo de conclusión de la práctica anterior, observamos que competidores locales como *Sancho Casual Burger* ofrecen plataformas funcionales pero extremadamente monótonas ("añadir al carrito y pagar"). El sector carece de innovación y gamificación en la experiencia de compra. Para estructurar nuestro rediseño, primero analizamos a nuestro usuario tipo (Mapa de Empatía) y luego recogemos los hallazgos técnicos (Malla Receptora).
+A modo de conclusión de la práctica anterior, observamos que competidores locales como *Sancho Casual Burger* ofrecen plataformas funcionales pero extremadamente monótonas ("añadir al carrito y pagar"). El sector carece de innovación y gamificación en la experiencia de compra. Para estructurar nuestro rediseño, primero analizamos a nuestros usuarios tipo (Mapa de Empatía) y luego recogemos los hallazgos técnicos (Malla Receptora).
 
-#### Empathy Map (Usuario: Pedro, organizador Erasmus)
+#### Empathy Map de nuestros Usuarios
 
-![Empathy Map de Pedro en Figma](./P2/EmpathyMapPedro.png)
+![Empathy Map de nuestros Usuarios en Figma](./P2/EmpathyMap.png)
 
-* [📄 Ver nuestro Empathy Map de Pedro](./P2/EmpathyMapPedro.png)
-
-<br>
-
-#### Empathy Map (Usuario: Irene, foodie intolerante)
-
-![Empathy Map de Irene en Figma](./P2/EmpathyMapIrene.png)
-
-* [📄 Ver nuestro Empathy Map de Irene](./P2/EmpathyMapIrene.png)
+* [📄 Ver nuestro Empathy Map de Usuarios](./P2/EmpathyMap.png)
 
 <br>
 
