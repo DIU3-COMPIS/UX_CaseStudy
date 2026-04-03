@@ -258,7 +258,7 @@ Creemos que transformando la experiencia de compra tradicional en un entorno int
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-Con este ScopeCanvas mostramos nuestra propuesta de valor de forma más esquemática:
+Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su propósito, necesidades, objetivos, acciones y métricas:
 
 ![ScopeCanvas en Figma](./P2/ScopeCanvas.png)
 
