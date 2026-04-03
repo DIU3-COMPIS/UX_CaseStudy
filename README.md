@@ -234,11 +234,7 @@ A modo de conclusión de la práctica anterior, observamos que competidores loca
 
 #### Feedback Capture Grid (Malla Receptora)
 
-| Interesante | Críticas |
-| :------------- | :------- |
-| **Marca:** Identidad visual muy potente y tono de voz gamberro y divertido.<br>**Autonomía:** Sistema propio integrado de reservas y pedidos a domicilio.<br>**Atractivo:** Fotografías de altísima calidad que generan deseo (*food porn*). | **Sobrecarga:** Exceso de vídeos y elementos que ralentizan drásticamente la web móvil.<br>**Rigidez:** Flujo de reservas muy frustrante para grupos grandes.<br>**Accesibilidad:** Información crucial sobre alérgenos demasiado oculta. |
-| **Preguntas** | **Nuevas ideas** |
-| ¿Cómo me aseguro al 100% de que mi pedido no tiene trazas de alérgenos?<br>¿Por qué no avisan del límite de comensales al principio de la reserva?<br>¿Cómo se decide qué burger baja de precio en el nuevo sistema de bolsa? | **Trading UI:** Un "Stock Market" de burgers donde el precio fluctúa según la popularidad.<br>**Modo Seguro:** Filtro instantáneo en el *ticker* para limpiar opciones con alérgenos.<br>**Transparencia:** Avisos dinámicos y claros de disponibilidad de mesas desde el paso 1. |
+![Feedback Capture Grid en Figma](./P2/FeedbackCaptureGrid.png)
 
 * [📄 Ver nuestro Feedback Capture Grid](./P2/FeedbackCaptureGrid.png)
 
