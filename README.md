@@ -274,23 +274,25 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 | Tarea | Usuario Invitado | Cliente Registrado | Administrador    
 | ------------- | ------- | ------- | ------- |
 | **Ver Ticker de bolsa en vivo** | Alta | Alta | Media |
-| **Registrarse** | Alta | - | Baja |
-| **Iniciar sesión** | - | Alta | Baja |
+| **Registrarse** | Alta | - | Alta |
+| **Iniciar sesión** | - | Alta | Alta |
 | **Consultar carta clásica (precios fijos)** | Alta | Alta | Baja |
 | **Invertir / Comprar Burger (Mercado)** | Media | Alta | Baja |
 | **Reservar mesa y "Congelar" precio** | Media | Alta | Baja |
 | **Añadir al Carrito** | Alta | Alta | Baja |
 | **Gestionar "Mi Cartera" (Alertas)** | - | Media | Baja |
 
-#### 1. Reserva de mesa con precio congelado
-- Task Flow: Este flujo describe el proceso desde que se entra en el mercado de hamburguesas para ver sus precios y
+*-Nota: En los task flow el hecho de haber iniciado sesión o no, no es relevante por lo que se omite para simplificar el diagrama. El usuario puede navegar y comprar/reservar sin estar registrado.*
+
+#### 1. Task flow: Reserva de mesa con precio congelado
+- Este flujo describe el proceso desde que se entra en el mercado de hamburguesas para ver sus precios y
   se termina reservando una mesa para un día concreto y así congelar el precio de la hamburguesa para ese día
 
 ![UserFlowBookTable](./P2/UserFlowBookTable.png) 
 * [📄 Ver nuestro UserFlowBookTable](./P2/UserFlowBookTable.png) 
 -----
-#### 2. Inversión en Hamburguesa
-- Task Flow: Este flujo describe el proceso desde que el usuario detecta una oportunidad en el Mercado de hamburguesas hasta que confirma su compra (la de una hamburguesa con precio variable)
+#### 2. Task flow: Inversión en Hamburguesa
+- Este flujo describe el proceso desde que el usuario detecta una oportunidad en el Mercado de hamburguesas hasta que confirma su compra (la de una hamburguesa con precio variable)
 ![UserFlowBookTable](./P2/UserFlowInvestBurger.png) 
 * [📄 Ver nuestro UserFlowBookTable](./P2/UserFlowInvestBurger.png) 
 -----
