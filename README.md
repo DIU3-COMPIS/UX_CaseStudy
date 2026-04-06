@@ -199,8 +199,7 @@ Al hacer el análisis detallado, nos hemos dado cuenta de que la web de Goiko ti
 <br><br>
 
 
-### 1.f Resumen 
-![Método UX](img/Persona.png) 
+### 1.f Conclusión 
 ----
 
 Como consultores expertos en Experiencia de Usuario (UX), hemos realizado una auditoría integral del sitio web oficial de Goiko. Nuestra evaluación concluye que, si bien la plataforma destaca por un diseño visualmente espectacular y una identidad de marca sobresaliente (obteniendo una puntuación general de usabilidad de 65/100), presenta deficiencias significativas en rendimiento, flexibilidad y control del usuario.
@@ -268,7 +267,7 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 <br><br>
 
 
-### 2.c User Flow (task) analysis 
+### 2.c User Flow (task) Analysis 
 
 #### User map
 | Tarea | Usuario Invitado | Cliente Registrado | Administrador    
@@ -354,6 +353,15 @@ Término | Significado
 ![Wireframe Burger Market](./P2/WireframeBurgerMarket.png)
 
 * [📄 Ver nuestro Wireframe Burger Market](./P2/WireframeBurgerMarket.png)
+
+
+<br><br>
+
+
+### 2.f Conclusión 
+----
+
+TODO
 
 
 <br><br><br><br>
