@@ -297,6 +297,7 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 * [📄 Ver nuestro UserFlowBookTable](./P2/UserFlowInvestBurger.png) 
 -----
 
+
 <br><br>
 
 
@@ -321,8 +322,6 @@ Término | Significado
 | **Pedidos anteriores** | Historial detallado de compras realizadas y seguimiento del "ahorro" obtenido al invertir en el mercado. |
 | **Footer** | Pie de página con acceso directo a redes sociales (Síguenos), información legal y datos rápidos de contacto. |
 
-  
-
 
 <br><br>
 
@@ -344,6 +343,7 @@ Término | Significado
 ![Wireframe Burger Market](./P2/WireframeBurgerMarket.png)
 
 * [📄 Ver nuestro Wireframe Burger Market](./P2/WireframeBurgerMarket.png)
+
 
 <br><br><br><br>
 
