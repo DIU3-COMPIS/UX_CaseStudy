@@ -268,6 +268,7 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 
 
 ### 2.c User Flow (task) Analysis 
+----
 
 #### User map
 | Tarea | Usuario Invitado | Cliente Registrado | Administrador    
@@ -309,6 +310,7 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 
 
 ### 2.d IA: Sitemap + Labelling 
+----
 
 ![SiteMap](./P2/Sitemap.png) 
 
@@ -339,8 +341,6 @@ Término | Significado
 ### 2.e Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
-
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
 
 - Wireframe de la Landing Page: 
 ![Wireframe Landing Page](./P2/WireframeLandingPage.png)
