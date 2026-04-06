@@ -284,6 +284,8 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 
 *-Nota: En los task flow el hecho de haber iniciado sesión o no, no es relevante por lo que se omite para simplificar el diagrama. El usuario puede navegar y comprar/reservar sin estar registrado.*
 
+<br>
+
 #### 1. Task flow: Reserva de mesa con precio congelado
 - Este flujo describe el proceso desde que se entra en el mercado de hamburguesas para ver sus precios y
   se termina reservando una mesa para un día concreto y así congelar el precio de la hamburguesa para ese día
@@ -291,6 +293,9 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 ![UserFlowBookTable](./P2/UserFlowBookTable.png) 
 * [📄 Ver nuestro UserFlowBookTable](./P2/UserFlowBookTable.png) 
 -----
+
+<br>
+
 #### 2. Task flow: Inversión en Hamburguesa
 - Este flujo describe el proceso desde que el usuario detecta una oportunidad en el Mercado de hamburguesas hasta que confirma su compra (la de una hamburguesa con precio variable)
 ![UserFlowBookTable](./P2/UserFlowInvestBurger.png) 
