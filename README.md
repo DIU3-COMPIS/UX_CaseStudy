@@ -340,7 +340,7 @@ Término | Significado
 
 ### 2.e Wireframes
 ![Método UX](img/Wireframes.png) 
------
+----
 
 <br>
 
@@ -362,7 +362,7 @@ Término | Significado
 
 
 ### 2.f Conclusión 
------
+----
 
 TODO
 
