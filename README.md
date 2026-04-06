@@ -342,11 +342,14 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
+<br>
+
 - Wireframe de la Landing Page: 
 ![Wireframe Landing Page](./P2/WireframeLandingPage.png)
 
 * [📄 Ver nuestro Wireframe Landing Page](./P2/WireframeLandingPage.png)
 
+<br>
 
 - Wireframe del Mercado de Hamburguesas:  
 
@@ -359,7 +362,7 @@ Término | Significado
 
 
 ### 2.f Conclusión 
-----
+-----
 
 TODO
 
