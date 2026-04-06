@@ -287,29 +287,35 @@ Mediante el uso de ScopeCanvas mostramos nuestra propuesta de valor mediante su 
 <br>
 
 #### 1. Task flow: Reserva de mesa con precio congelado
+
 - Este flujo describe el proceso desde que se entra en el mercado de hamburguesas para ver sus precios y
   se termina reservando una mesa para un día concreto y así congelar el precio de la hamburguesa para ese día
 
 ![UserFlowBookTable](./P2/UserFlowBookTable.png) 
+
 * [📄 Ver nuestro UserFlowBookTable](./P2/UserFlowBookTable.png) 
------
 
 <br>
 
 #### 2. Task flow: Inversión en Hamburguesa
+
 - Este flujo describe el proceso desde que el usuario detecta una oportunidad en el Mercado de hamburguesas hasta que confirma su compra (la de una hamburguesa con precio variable)
+
 ![UserFlowBookTable](./P2/UserFlowInvestBurger.png) 
+
 * [📄 Ver nuestro UserFlowBookTable](./P2/UserFlowInvestBurger.png) 
------
 
 
 <br><br>
 
 
 ### 2.d IA: Sitemap + Labelling 
+
 ![SiteMap](./P2/Sitemap.png) 
+
 * [📄 Ver nuestro SiteMap](./P2/Sitemap.png)
-----
+
+<br>
 
 Término | Significado     
 | ------------- | ------- |
