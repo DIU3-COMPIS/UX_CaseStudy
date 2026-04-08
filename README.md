@@ -357,6 +357,22 @@ Término | Significado
 
 * [📄 Ver nuestro Wireframe Burger Market](./P2/WireframeBurgerMarket.png)
 
+<br>
+
+- Wireframe de Mi Cartera:  
+
+![Wireframe Mi Cartera](./P2/WireframeCartera.png)
+
+* [📄 Ver nuestro Wireframe Mi Cartera](./P2/WireframeCartera.png)
+
+<br>
+
+- Wireframe de Mi Carrito:  
+
+![Wireframe Mi Carrito](./P2/WireframeCarrito.png)
+
+* [📄 Ver nuestro Wireframe Mi Carrito](./P2/WireframeCarrito.png)
+
 
 <br><br>
 
