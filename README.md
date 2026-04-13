@@ -342,6 +342,11 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 ----
 
+En esta sección, se podrán ver tanto los bocetos en papel como los wireframe Lo-Fi a continuación:
+
+- Bocetos:
+* [📄 Ver nuestros bocetos](./P2/Bocetos.pdf) 
+
 <br>
 
 - Wireframe de la Landing Page: 
