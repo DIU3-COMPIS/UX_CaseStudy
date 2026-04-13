@@ -380,7 +380,13 @@ Término | Significado
 ### 2.f Conclusión 
 ----
 
-TODO
+A lo largo de esta segunda práctica, hemos logrado transformar una idea disruptiva en una arquitectura sólida y centrada en el usuario (UX). Partiendo de la investigación y empatía inicial (Empathy Map y Malla Receptora), confirmamos la necesidad de romper con la monotonía de las aplicaciones de delivery tradicionales. Esto nos llevó a consolidar nuestra propuesta de valor: gamificar la experiencia de Goiko convirtiéndola en un dinámico "Mercado de Valores".
+
+Mediante el uso de herramientas estratégicas como el ScopeCanvas y el análisis de tareas (User Flows), hemos diseñado flujos lógicos para asegurar que mecánicas innovadoras —como "invertir" en hamburguesas cuyo precio fluctúa o "congelar" su valor al reservar una mesa— resulten naturales e intuitivas. La Arquitectura de la Información (Sitemap) nos ha permitido organizar este nuevo ecosistema de forma coherente.
+
+Todo este trabajo se materializa en los wireframes Lo-Fi, donde hemos alcanzado un equilibrio perfecto entre la temática financiera (con elementos como el ticker en vivo, las gráficas de rendimiento en "Mi Cartera" y rangos como el Lobo de Wall Street) y la usabilidad pura. Además, el diseño integra de forma orgánica las soluciones a los pain points reales detectados en nuestros usuarios, implementando funcionalidades clave como la división de pagos en grupo y la gestión de alérgenos directamente en el carrito de compra.
+
+En definitiva, hemos construido un esqueleto interactivo, altamente diferenciador y justificado en las necesidades del usuario, sentando las bases idóneas para afrontar con garantías la futura fase de diseño visual y prototipado de alta fidelidad (UI).
 
 
 <br><br><br><br>
