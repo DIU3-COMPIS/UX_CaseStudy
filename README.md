@@ -408,7 +408,7 @@ En definitiva, hemos construido un esqueleto interactivo, altamente diferenciado
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
-### 3.c Guidelines
+### 3.b Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
@@ -416,11 +416,17 @@ En definitiva, hemos construido un esqueleto interactivo, altamente diferenciado
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 
-### 3.d Maquetas
+### 3.c Maquetas
 ![Método UX](img/mockup.png) 
 ----
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+
+
+### 3.d Conclusión
+----
+
+TODO
 
 
 <br><br><br><br>
