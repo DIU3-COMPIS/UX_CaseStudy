@@ -408,13 +408,6 @@ En definitiva, hemos construido un esqueleto interactivo, altamente diferenciado
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
-
-
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
