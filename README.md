@@ -55,7 +55,7 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
 
 **Logotipo y Slogan**: 
 
-![Logotipo](./img/Logo.png)
+![Logotipo](./P3/Logo.png)
 
 *Goiko's Change. Tu cartera de inversión nunca tuvo tan buena pinta.*
 
