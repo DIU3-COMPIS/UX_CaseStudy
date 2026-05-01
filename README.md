@@ -442,17 +442,17 @@ El moodboard de Wall Street Burgers refleja la fusión perfecta entre la eleganc
 
 #### HI-FI de Mi Cartera
 
-![HI-FI de Mi Cartera](./P3/WireframeHiFiCartera.png)
+![HI-FI de Mi Cartera](./P3/WireframeHifiCartera.png)
 
-* [📄 Ver nuestro HI-FI de Mi Cartera](./P3/WireframeHiFiCartera.png)
+* [📄 Ver nuestro HI-FI de Mi Cartera](./P3/WireframeHifiCartera.png)
 
 <br>
 
 #### HI-FI de Mi Carrito 
 
-![HI-FI de Mi Carrito](./P3/WireframeHiFiCarrito.png)
+![HI-FI de Mi Carrito](./P3/WireframeHifiCarrito.png)
 
-* [📄 Ver nuestro HI-FI de Mi Carrito](./P3/WireframeHiFiCarrito.png)
+* [📄 Ver nuestro HI-FI de Mi Carrito](./P3/WireframeHifiCarrito.png)
 
 
 <br><br>
