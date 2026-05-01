@@ -424,7 +424,38 @@ El moodboard de Wall Street Burgers refleja la fusión perfecta entre la eleganc
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+#### HI-FI de la Landing Page 
+
+![HI-FI de la Landing Page](./P3/WireframeHiFiLandingPage.png)
+
+* [📄 Ver nuestro HI-FI de la Landing Page](./P3/WireframeHiFiLandingPage.png)
+
+<br>
+
+#### HI-FI del Mercado de Hamburguesas 
+
+![HI-FI del Burguer Market](./P3/WireframeHiFiMercadoHamburguesas.png)
+
+* [📄 Ver nuestro HI-FI del Burguer Market](./P3/WireframeHiFiMercadoHamburguesas.png)
+
+<br>
+
+#### HI-FI de Mi Cartera
+
+![HI-FI de Mi Cartera](./P3/WireframeHiFiCartera.png)
+
+* [📄 Ver nuestro HI-FI de Mi Cartera](./P3/WireframeHiFiCartera.png)
+
+<br>
+
+#### HI-FI de Mi Carrito 
+
+![HI-FI de Mi Carrito](./P3/WireframeHiFiCarrito.png)
+
+* [📄 Ver nuestro HI-FI de Mi Carrito](./P3/WireframeHiFiCarrito.png)
+
+
+<br><br>
 
 
 ### 3.d Conclusión
