@@ -405,7 +405,10 @@ En definitiva, hemos construido un esqueleto interactivo, altamente diferenciado
 
 ![Moodboard](./P3/Moodboard.png) 
 
-* [📄 Ver nuestro Moodboard](./P3/Moodboard.png) 
+* [📄 Ver nuestro Moodboard](./P3/Moodboard.png)
+
+
+<br><br>
 
 
 ### 3.b Guidelines
