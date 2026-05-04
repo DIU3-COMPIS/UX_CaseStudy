@@ -417,8 +417,30 @@ El moodboard de Wall Street Burgers refleja la fusión perfecta entre la eleganc
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para el desarrollo visual de *Wall Street Burgers*, hemos prescindido de frameworks rígidos y hemos optado por construir un **Design System ligero y personalizado**, enfocado en la modularidad y la escalabilidad de nuestra interfaz web.
+
+<br>
+
+#### 1. Foundations (Cimientos del Sistema)
+Utilizando plugins de Figma para la generación de estilos, hemos definido nuestras bases visuales (Design Tokens):
+*   **Sistema de Color:** Hemos documentado nuestra paleta en escalas (ej. `color-primary-600`), definiendo el Ocre Bronce para la identidad corporativa, el Crema como fondo neutro para evitar fatiga visual, y el Rojo Vivo como color de *feedback* y alerta para los CTAs principales y las "caídas de mercado".
+*   **Arquitectura Tipográfica:** Escala modular utilizando **Oswald** para los H1-H3 (titulares llamativos) e **Inter** para el *Body* y las etiquetas de datos (garantizando legibilidad en los números cambiantes del mercado).
+
+<br>
+
+#### 2. Metodología Atomic Design
+Hemos estructurado nuestros componentes de menor a mayor complejidad para facilitar el ensamblaje de los wireframes Hi-Fi:
+*   **Átomos:** Elementos base indivisibles. Estilos de texto, tokens de color, iconos (flechas de tendencias, trofeos de usuario), botones simples y contenedores básicos.
+*   **Moléculas:** Agrupaciones funcionales. Tarjetas de producto (Foto + Nombre + Precio + Variación + Botón), barras de búsqueda, e indicadores de rendimiento de la cartera.
+*   **Organismos:** Secciones complejas como el Header de navegación, el "Ticker" dinámico de precios (el banner rojo animado), y el Footer legal.
+
+<br>
+
+#### 3. Patrones de Diseño IU y Layout Web
+Siguiendo las directrices de diseño web y la usabilidad en desktop, hemos aplicado los siguientes patrones:
+*   **Patrón de Lectura en "F":** Hemos estructurado el layout asumiendo que el usuario escaneará la pantalla de izquierda a derecha y de arriba a abajo. Por ello, el logo y el menú principal se ubican en la esquina superior izquierda, seguido de la navegación transversal. El "Ticker" de precios capta la atención inmediatamente debajo en el primer barrido visual horizontal.
+*   **Ubicación de CTAs (Call to Action):** Los botones principales de conversión (como "INVERTIR" o "FINALIZAR COMPRA") se han ubicado estratégicamente en la ruta visual del usuario, alineados a la derecha o destacados con el color de mayor contraste (Rojo Vivo) para incitar a la acción rápida, simulando la urgencia del *trading*.
+*   **Header y Footer predecibles:** Para reducir la carga cognitiva frente a una propuesta tan novedosa, mantenemos la estructura clásica de navegación superior y cierre legal/social en la parte inferior.
 
 
 <br><br>
@@ -465,7 +487,16 @@ El moodboard de Wall Street Burgers refleja la fusión perfecta entre la eleganc
 ### 3.d Conclusión
 ----
 
-TODO
+El desarrollo del prototipo Hi-Fi de *Wall Street Burgers* ha sido un reto superado con éxito gracias a la combinación de metodologías ágiles de diseño y el apoyo de herramientas de IA. 
+
+Nuestro principal acierto ha sido la definición inicial de un **UX Writing potente** ("bróker gamberro") y un Moodboard muy claro. Esto nos permitió tomar decisiones de UI rápidas y coherentes. La interfaz destaca por su alto contraste y su capacidad de gamificar una acción tan cotidiana como pedir comida a domicilio. El uso del "Ticker" de precios y las tarjetas de fluctuación aportan un dinamismo que engancha visualmente al usuario desde el primer segundo.
+
+El proceso se ha optimizado enormemente gracias a:
+1.  Herramientas de IA Generativa:Han sido fundamentales en las fases iniciales para generar el *copywriting* motivador, afinar el tono de voz de la marca, generar las imágenes inspiracionales del moodboard y ayudarnos a traducir los conceptos financieros complejos a una interfaz de usuario comprensible.
+2.  Figma + Plugins: La utilización de plugins para la generación de fundaciones (escalas de color y tipografía) y librerías como *Lucide* para la iconografía, nos ahorró horas de trabajo manual. 
+3.  Atomic Design: Al construir primero los átomos y moléculas en Figma usando *Componentes* y *Auto Layout*, el ensamblaje final de las pantallas Hi-Fi (Landing Page, Mercado, Cartera y Carrito) fue un proceso casi automático, garantizando una consistencia visual perfecta en todo el proyecto.
+
+En conclusión, la integración del diseño atómico junto con la asistencia de la IA nos ha permitido crear un prototipo robusto, visualmente impactante y listo para las siguientes fases de evaluación funcional.
 
 
 <br><br><br><br>
