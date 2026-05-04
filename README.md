@@ -436,6 +436,10 @@ Hemos estructurado nuestros componentes de menor a mayor complejidad para facili
 *   **Moléculas:** Agrupaciones funcionales. Tarjetas de producto (Foto + Nombre + Precio + Variación + Botón), barras de búsqueda, e indicadores de rendimiento de la cartera.
 *   **Organismos:** Secciones complejas como el Header de navegación, el "Ticker" dinámico de precios (el banner rojo animado), y el Footer legal.
 
+#### Nuestro Diseño Atómico (Design System)
+
+* [🔗 Ver el proyecto interactivo directamente en Figma](https://www.figma.com/design/EcflaKpYL0jVP59BLETOzQ/Dise%C3%B1o-Sistema?m=auto&t=szcr0lgR3elgUFrY-1)
+
 <br>
 
 #### 3. Patrones de Diseño IU y Layout Web
