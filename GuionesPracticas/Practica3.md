@@ -135,7 +135,7 @@ Recursos:
 
 * IxDF (2021). **_What are Design Systems?_**. IxDF - Interaction Design Foundation. https://www.interaction-design.org/literature/topics/design-systems
 * UX Planet (2023) **Design System — Fundamental principles for designing and developing a robust Design System** https://uxplanet.org/design-system-fundamental-principles-for-designing-and-developing-a-robust-design-system-2265f2c93627
-* Explore component properties – Figma Learn - https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties
+* **Explore component properties** – Figma Learn - https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties
   
 <br>
 
