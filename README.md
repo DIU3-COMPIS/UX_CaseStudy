@@ -492,7 +492,7 @@ El desarrollo del prototipo Hi-Fi de *Wall Street Burgers* ha sido un reto super
 Nuestro principal acierto ha sido la definición inicial de un **UX Writing potente** ("bróker gamberro") y un Moodboard muy claro. Esto nos permitió tomar decisiones de UI rápidas y coherentes. La interfaz destaca por su alto contraste y su capacidad de gamificar una acción tan cotidiana como pedir comida a domicilio. El uso del "Ticker" de precios y las tarjetas de fluctuación aportan un dinamismo que engancha visualmente al usuario desde el primer segundo.
 
 El proceso se ha optimizado enormemente gracias a:
-1.  Herramientas de IA Generativa:Han sido fundamentales en las fases iniciales para generar el *copywriting* motivador, afinar el tono de voz de la marca, generar las imágenes inspiracionales del moodboard y ayudarnos a traducir los conceptos financieros complejos a una interfaz de usuario comprensible.
+1.  Herramientas de IA Generativa:Han sido fundamentales en las fases iniciales para generar el *copywriting* motivador, afinar el tono de voz de la marca, generar las imágenes inspiracionales del moodboard y ayudarnos a traducir los conceptos financieros complejos a una interfaz de usuario comprensible. <br>
 2.  Figma + Plugins: La utilización de plugins para la generación de fundaciones (escalas de color y tipografía) y librerías como *Lucide* para la iconografía, nos ahorró horas de trabajo manual. 
 3.  Atomic Design: Al construir primero los átomos y moléculas en Figma usando *Componentes* y *Auto Layout*, el ensamblaje final de las pantallas Hi-Fi (Landing Page, Mercado, Cartera y Carrito) fue un proceso casi automático, garantizando una consistencia visual perfecta en todo el proyecto.
 
