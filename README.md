@@ -409,6 +409,7 @@ En definitiva, hemos construido un esqueleto interactivo, altamente diferenciado
 
 El moodboard de Wall Street Burgers refleja la fusión perfecta entre la elegancia de un club financiero y la indulgencia de GOIKO. Visualmente, la propuesta se apoya en una paleta que combina el ocre bronce, evocando el lujo y el pan tostado, con rojos vibrantes diseñados para alertar sobre las caídas de precios, todo sobre un fondo crema limpio. La tipografía mezcla el carácter rotundo y clásico de Oswald para los titulares, con la precisión técnica de Inter para facilitar la lectura de los valores de mercado. Todo este universo visual sirve de marco para un tono de voz de "bróker gamberro", que transforma el menú en una bolsa de valores gamificada donde el usuario entra para invertir con hambre y comerse el mercado.
 
+
 <br><br>
 
 
@@ -418,6 +419,9 @@ El moodboard de Wall Street Burgers refleja la fusión perfecta entre la eleganc
 
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+
+<br><br>
 
 
 ### 3.c Maquetas
