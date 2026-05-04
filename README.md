@@ -436,7 +436,7 @@ Hemos estructurado nuestros componentes de menor a mayor complejidad para facili
 *   **Moléculas:** Agrupaciones funcionales. Tarjetas de producto (Foto + Nombre + Precio + Variación + Botón), barras de búsqueda, e indicadores de rendimiento de la cartera.
 *   **Organismos:** Secciones complejas como el Header de navegación, el "Ticker" dinámico de precios (el banner rojo animado), y el Footer legal.
 
-#### Nuestro Diseño Atómico (Design System)
+A través del siguiente enlace, podrás ver nuestro Diseño Atómico realizado en Figma, organizado en distintas páginas donde se pueden encontrar: átomos, moléculas, organismos y los bocetos finales.
 
 * [🔗 Ver el proyecto interactivo directamente en Figma](https://www.figma.com/design/EcflaKpYL0jVP59BLETOzQ/Dise%C3%B1o-Sistema?m=auto&t=szcr0lgR3elgUFrY-1)
 
