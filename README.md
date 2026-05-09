@@ -518,6 +518,72 @@ En conclusión, la integración del diseño atómico junto con la asistencia de 
 <br><br><br><br>
 
 
+## Paso 4. Exportación y Documentación 
+
+### 4.a Exportación a HTML/React
+![Método UX](img/usabilityReview.png) 
+----
+>>> Detalle de la exportación a código mediante Inteligencia Artificial. Las evidencias de este paso quedan subidas a P5/
+
+**Creación de la App React con Figma Make:**
+Para llevar a cabo la conversión de nuestro diseño visual a código interactivo, hemos optado por la **Opción C** propuesta en la asignatura. En lugar de codificar manualmente cada átomo y molécula desde cero, hemos utilizado **Figma Make**, el agente de IA integrado (entorno MCP) de Figma. 
+
+El proceso consistió en procesar nuestros diseños finales ("Wall Street Burgers") e instruir a la herramienta para que generara la estructura completa de una aplicación web. Figma Make se encargó de traducir nuestras capas, *auto-layouts* y variables de diseño a un proyecto sólido basado en **Vite y React**. El código generado automáticamente emplea **Tailwind CSS** para los estilos (garantizando un diseño *responsive* sin posiciones absolutas problemáticas) y utiliza librerías como **Radix UI** para asegurar que los componentes sean accesibles y modernos. 
+
+Una vez generada la estructura, exportamos el código (`.zip`) a nuestro entorno local. Utilizando Visual Studio Code y el gestor de paquetes de Node (`npm install` y `npm run dev`), levantamos el proyecto comprobando que todas las dependencias (`package.json`) y rutas (`src/components`, `src/pages`) se ejecutaban a la perfección, logrando una traducción 1:1 de nuestro lienzo al navegador.
+
+
+<br><br>
+
+
+### 4.b Despliegue y Publicación
+![Método UX](img/usabilityReview.png) 
+----
+>>> Configuración del entorno de producción y enlace público.
+
+**Proceso de Despliegue:**
+De acuerdo con las alternativas validadas para el desarrollo de esta práctica, el uso de Figma Make nos ha permitido agilizar la fase de despliegue, prescindiendo de la configuración manual en *Storybook* y de herramientas de hosting externas como *Surge.sh*.
+
+La propia plataforma de Figma Make actúa como entorno de producción. Al compilar la aplicación, el sistema despliega el código de forma automática en sus propios servidores, asignándole un dominio estable y seguro. Esto nos garantiza tener la aplicación web *online* de forma inmediata, facilitando una evaluación directa sobre el entorno real y no solo sobre el código fuente local.
+
+**🔗 Enlace para la evaluación:** 
+Puedes navegar por la versión web interactiva y funcional de nuestra aplicación en el siguiente enlace de producción:
+👉 **[Ver aplicación de Wall Street Burgers en Figma Make](https://www.figma.com/make/RNMefk5sTP5USA9a05kYDV/Crear-aplicaci%C3%B3n-dise%C3%B1o-at%C3%B3mico?t=fy4pVEjMTT9vtP7p-1&preview-route=%2Fcart)**
+
+
+<br><br>
+
+
+
+### 4.c Conclusión
+![Método UX](img/usabilityReview.png) 
+----
+>>> Resumen final y reflexiones sobre el desarrollo de la Práctica 4.
+
+**Briefing y Resumen de la Práctica:**
+Esta práctica ha supuesto el puente definitivo entre el Diseño de Interfaces (UI) y el Desarrollo Front-end real. La adopción de un flujo de trabajo moderno impulsado por Inteligencia Artificial ha demostrado ser un salto cualitativo en la eficiencia del equipo.
+
+Al delegar en la IA el trabajo más repetitivo de maquetación base y configuración del entorno, hemos evitado el clásico "código espagueti" y las horas de depuración de CSS. En su lugar, hemos obtenido un "esqueleto" en React limpio y modular. Esto nos ha permitido centrar nuestros esfuerzos en lo verdaderamente importante: la fidelidad del diseño final y la experiencia de usuario. El resultado es que nuestro diseño no se ha quedado en un simple prototipo estático, sino que ha evolucionado a una aplicación real, navegable, construida bajo estándares actuales y completamente lista para ser evaluada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
