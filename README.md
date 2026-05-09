@@ -557,31 +557,15 @@ Puedes navegar por la versión web interactiva y funcional de nuestra aplicació
 ![Método UX](img/usabilityReview.png) 
 ----
 
-**Briefing y Resumen de la Práctica:**
 Esta práctica ha supuesto el puente definitivo entre el Diseño de Interfaces (UI) y el Desarrollo Front-end real. La adopción de un flujo de trabajo moderno impulsado por Inteligencia Artificial ha demostrado ser un salto cualitativo en la eficiencia del equipo.
 
 Al delegar en la IA el trabajo más repetitivo de maquetación base y configuración del entorno, hemos evitado el clásico "código espagueti" y las horas de depuración de CSS. En su lugar, hemos obtenido un "esqueleto" en React limpio y modular. Esto nos ha permitido centrar nuestros esfuerzos en lo verdaderamente importante: la fidelidad del diseño final y la experiencia de usuario. El resultado es que nuestro diseño no se ha quedado en un simple prototipo estático, sino que ha evolucionado a una aplicación real, navegable, construida bajo estándares actuales y completamente lista para ser evaluada.
 
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Paso 4. Pruebas de Evaluación 
+## DE AQUI PA ALANTE, HABRA QUE CAMBIARLO.Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
