@@ -556,9 +556,9 @@ Esta práctica ha demostrado que la adopción de flujos de trabajo impulsados po
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-## DE AQUI PA ALANTE, HABRA QUE CAMBIARLO.Paso 4. Pruebas de Evaluación 
+Paso 5. Pruebas de Evaluación 
 
-### 4.a Reclutamiento de usuarios 
+### 5.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
 
@@ -575,15 +575,20 @@ Esta práctica ha demostrado que la adopción de flujos de trabajo impulsados po
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-### 4.b Diseño de las pruebas 
+<br><br>
+
+
+### 5.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
 
+<br><br>
 
-### 4.c Cuestionario SUS
+
+### 5.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
@@ -593,13 +598,20 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
 
-### 4.d A/B Testing
+<br><br>
+
+
+### 5.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
-### 4.e Aplicación del método Eye Tracking 
+
+<br><br>
+
+
+### 5.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
@@ -612,7 +624,10 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
-### 4.f Usability Report de B
+<br><br>
+
+
+### 5.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
@@ -622,24 +637,10 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
 
-<br><br><br><br>
+<br><br>
 
 
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+### 5.g Conclusión
 
 
 <br><br><br><br>
