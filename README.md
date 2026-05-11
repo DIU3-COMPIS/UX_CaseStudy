@@ -553,10 +553,10 @@ El proceso de producción fue altamente eficiente, aunque requirió una fase de 
 Esta práctica ha demostrado que la adopción de flujos de trabajo impulsados por IA permite al equipo centrarse en la experiencia de usuario y la arquitectura de la información, delegando la maquetación base y obteniendo un "esqueleto" en React profesional y escalable.
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 
-Paso 5. Pruebas de Evaluación 
+## Paso 5. Pruebas de Evaluación 
 
 ### 5.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
