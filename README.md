@@ -592,10 +592,13 @@ Esta práctica ha demostrado que la adopción de flujos de trabajo impulsados po
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Para evaluar la percepción subjetiva y la satisfacción de los usuarios con los diseños propuestos (Caso A y Caso B), se ha implementado un cuestionario estandarizado basado en la **System Usability Scale (SUS)**.
+
+* **Recogida de datos:** Se ha diseñado un formulario digital que incluye las 10 preguntas oficiales de la escala SUS, junto con un bloque de perfilado demográfico (edad, género, nivel digital y uso de ayudas visuales). 
+  👉 **[Enlace al Cuestionario Oficial (Tally.so)](https://tally.so/r/vGEdBv)**
+* **Procesamiento:** Una vez finalizado el trabajo de campo con los 10 usuarios, las respuestas se exportarán en formato JSON y se analizarán mediante la herramienta multivariable [SUS Analysis Toolkit](https://sus.tools/).
+
+*(Nota: Los resultados cuantitativos, las gráficas comparativas y la valoración final de usabilidad se incorporarán a este apartado una vez concluyan las sesiones de evaluación A/B).*
 
 
 <br><br>
@@ -631,10 +634,18 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+Este apartado resume la evaluación técnica preliminar realizada sobre la aplicación del **Grupo B** (La Qarmita). El informe completo de usabilidad, que integra los datos biométricos y de comportamiento de los usuarios, se adjuntará en el documento final tras la fase de testeo.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+#### Auditoría de Accesibilidad Técnica
+Como parte fundamental del informe, se ha realizado una auditoría automática utilizando la extensión **WAVE (Web Accessibility Evaluation Tool)** sobre el entorno local compilado, analizando el cumplimiento de las pautas **WCAG 2.1 (Nivel AA)**.
+
+| Categoría | Error Detectado (Criterio WCAG) | Impacto en el Usuario | Recomendación de Mejora |
+| :--- | :--- | :--- | :--- |
+| **Perceptible** | **Contraste insuficiente:** El texto de introducción ("La Qarmita es un refugio...") en la página principal presenta un tono gris muy claro sobre fondo blanco, fallando el ratio de contraste mínimo (Criterio 1.4.3). | Usuarios con visión reducida, astigmatismo o pantallas con mucho brillo no pueden leer el contenido cómodamente. | Oscurecer el color del texto (ej. cambiar a `#333333`) para garantizar un ratio de contraste superior a 4.5:1. |
+| **Comprensible** | **Idioma del documento incorrecto:** La etiqueta principal del HTML general está definida como `lang="en"`, pero todo el contenido visual de la página está redactado en español (Criterio 3.1.1). | Los usuarios invidentes que utilizan lectores de pantalla escucharán el texto en español pero pronunciado con fonética inglesa, haciéndolo incomprensible. | Modificar el archivo `index.html` del proyecto base para cambiar el atributo a `lang="es"`. |
+| **Operable** | **Falta de etiqueta en formulario (Missing form label):** En la página de "Foro de comentarios", la caja de texto para añadir una reseña carece de un elemento `<label>` asociado (Criterio 3.3.2). | Los usuarios que navegan mediante lectores de pantalla no reciben información sobre qué datos deben introducir en ese campo, escuchando únicamente "cuadro de edición en blanco". | Envolver el campo con una etiqueta `<label>` o, si el diseño no lo permite, añadir el atributo `aria-label="Escribe aquí tu experiencia"` a la caja de texto. |
+
+**Valoración del equipo:** La realización de esta auditoría nos ha permitido comprobar que, aunque el Grupo B ha hecho un excelente trabajo con el texto alternativo de las imágenes (todas cuentan con su etiqueta `alt`), se han arrastrado errores de configuración del *boilerplate* de React (como el idioma base) y omisiones en los formularios que merman significativamente la accesibilidad. Herramientas de evaluación automática como WAVE resultan vitales para detectar estas barreras invisibles en el código que un testeo puramente visual pasaría por alto.
 
 
 <br><br>
