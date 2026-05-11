@@ -12,6 +12,9 @@ Ahora mismo es un "esqueleto" que contiene y organiza la información que se esp
 Se tiene que redactar correctamente y eliminar todo lo que no sea necesario, respetando la estructura general del proceso. 
 Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **valorará la calidad de la exposición del Caso de Estudio y la información incluida**. 
 
+* [Enlace al Prototipo Figma (P3)](https://www.figma.com/design/EcflaKpYL0jVP59BLETOzQ/Dise%C3%B1o-Sistema?m=auto&t=szcr0lgR3elgUFrY-1)
+* [Enlace a la Aplicación React (P4)](https://www.figma.com/make/RNMefk5sTP5USA9a05kYDV/Crear-aplicaci%C3%B3n-dise%C3%B1o-at%C3%B3mico?t=fy4pVEjMTT9vtP7p-1&preview-route=%2Fcart)
+
 
 <br><br>
 
@@ -47,7 +50,7 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
 
 **Curso**: 2026 
 
-**Actualizado**: 09/05/2026
+**Actualizado**: 12/05/2026
 
 **Nombre del Proyecto**: Wall Street Burguer    
  
