@@ -521,45 +521,36 @@ En conclusión, la integración del diseño atómico junto con la asistencia de 
 ## Paso 4. Exportación y Documentación 
 
 ### 4.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
 
 **Creación de la App React con Figma Make:**
-Para llevar a cabo la conversión de nuestro diseño visual a código interactivo, hemos optado por la **Opción C** propuesta en la asignatura. En lugar de codificar manualmente cada átomo y molécula desde cero, hemos utilizado **Figma Make**, el agente de IA integrado (entorno MCP) de Figma. 
+Para la conversión de nuestro diseño visual a código interactivo, hemos optado por la alternativa basada en **Figma Make (IA)**. Este proceso ha permitido migrar el contenido de "Wall Street Burgers" directamente a un entorno de desarrollo moderno sin la necesidad de maquetación manual de átomos y moléculas.
 
-El proceso consistió en procesar nuestros diseños finales ("Wall Street Burgers") e instruir a la herramienta para que generara la estructura completa de una aplicación web. Figma Make se encargó de traducir nuestras capas, *auto-layouts* y variables de diseño a un proyecto sólido basado en **Vite y React**. El código generado automáticamente emplea **Tailwind CSS** para los estilos (garantizando un diseño *responsive* sin posiciones absolutas problemáticas) y utiliza librerías como **Radix UI** para asegurar que los componentes sean accesibles y modernos. 
-
-Una vez generada la estructura, exportamos el código (`.zip`) a nuestro entorno local. Utilizando Visual Studio Code y el gestor de paquetes de Node (`npm install` y `npm run dev`), levantamos el proyecto comprobando que todas las dependencias (`package.json`) y rutas (`src/components`, `src/pages`) se ejecutaban a la perfección, logrando una traducción 1:1 de nuestro lienzo al navegador.
+La herramienta procesó nuestros archivos de diseño y generó una estructura completa basada en **Vite y React**. Es destacable que el código resultante utiliza **Tailwind CSS** y componentes de **Radix UI**, garantizando que la aplicación sea no solo visualmente fiel, sino también accesible y técnica conforme a los estándares actuales. Tras la generación, exportamos el proyecto e inicializamos el entorno local en Visual Studio Code mediante `npm install`, verificando que la arquitectura de carpetas y las rutas de navegación (`App.tsx`) funcionaban correctamente.
 
 
 <br><br>
 
 
 ### 4.b Despliegue y Publicación
-![Método UX](img/usabilityReview.png) 
-----
 
 **Proceso de Despliegue:**
-De acuerdo con las alternativas validadas para el desarrollo de esta práctica, el uso de Figma Make nos ha permitido agilizar la fase de despliegue, prescindiendo de la configuración manual en *Storybook* y de herramientas de hosting externas como *Surge.sh*.
+De acuerdo con las facilidades de la opción elegida, el despliegue se ha realizado a través de la plataforma de alojamiento propia de Figma Make. Esto ha simplificado el flujo de trabajo al obtener un dominio estable y seguro de forma inmediata, permitiendo una evaluación directa de la interactividad del producto final en la web.
 
-La propia plataforma de Figma Make actúa como entorno de producción. Al compilar la aplicación, el sistema despliega el código de forma automática en sus propios servidores, asignándole un dominio estable y seguro. Esto nos garantiza tener la aplicación web *online* de forma inmediata, facilitando una evaluación directa sobre el entorno real y no solo sobre el código fuente local.
-
-**🔗 Enlace para la evaluación:** 
-Puedes navegar por la versión web interactiva y funcional de nuestra aplicación en el siguiente enlace de producción:
-👉 **[Ver aplicación de Wall Street Burgers en Figma Make](https://www.figma.com/make/RNMefk5sTP5USA9a05kYDV/Crear-aplicaci%C3%B3n-dise%C3%B1o-at%C3%B3mico?t=fy4pVEjMTT9vtP7p-1&preview-route=%2Fcart)**
+* 🔗 **Enlace para la evaluación:** [Ver aplicación de Wall Street Burgers en Figma Make](https://www.figma.com/make/RNMefk5sTP5USA9a05kYDV/Crear-aplicaci%C3%B3n-dise%C3%B1o-at%C3%B3mico?t=fy4pVEjMTT9vtP7p-1&preview-route=%2Fcart)
 
 
 <br><br>
 
 
-
 ### 4.c Conclusión
-![Método UX](img/usabilityReview.png) 
-----
 
-Esta práctica ha supuesto el puente definitivo entre el Diseño de Interfaces (UI) y el Desarrollo Front-end real. La adopción de un flujo de trabajo moderno impulsado por Inteligencia Artificial ha demostrado ser un salto cualitativo en la eficiencia del equipo.
+**Elementos de diseño mantenidos:**
+La migración ha sido exitosa al mantener la **fidelidad 1:1 de los estilos visuales** (paleta de colores corporativa, tipografías e iconografía de Lucide), el **layout basado en Auto Layout** de Figma (que se tradujo correctamente a Flexbox/Grid en Tailwind) y los **estados de los componentes**, asegurando que la experiencia de usuario diseñada originalmente se traslade al producto funcional.
 
-Al delegar en la IA el trabajo más repetitivo de maquetación base y configuración del entorno, hemos evitado el clásico "código espagueti" y las horas de depuración de CSS. En su lugar, hemos obtenido un "esqueleto" en React limpio y modular. Esto nos ha permitido centrar nuestros esfuerzos en lo verdaderamente importante: la fidelidad del diseño final y la experiencia de usuario. El resultado es que nuestro diseño no se ha quedado en un simple prototipo estático, sino que ha evolucionado a una aplicación real, navegable, construida bajo estándares actuales y completamente lista para ser evaluada.
+**Proceso de producción y problemas detectados:**
+El proceso de producción fue altamente eficiente, aunque requirió una fase de supervisión y refinamiento mediante prompts de IA. Detectamos y corregimos problemas menores relacionados con la accesibilidad (como avisos de *warnings* en componentes de Radix UI y descripciones faltantes en menús laterales) y la gestión de referencias (`forwardRef`). La estrategia adoptada fue utilizar el agente de IA para iterar sobre estos errores hasta obtener un código limpio y libre de advertencias en la consola del navegador.
+
+Esta práctica ha demostrado que la adopción de flujos de trabajo impulsados por IA permite al equipo centrarse en la experiencia de usuario y la arquitectura de la información, delegando la maquetación base y obteniendo un "esqueleto" en React profesional y escalable.
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
