@@ -13,7 +13,7 @@ Se tiene que redactar correctamente y eliminar todo lo que no sea necesario, res
 Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **valorará la calidad de la exposición del Caso de Estudio y la información incluida**. 
 
 * [Enlace al Prototipo Figma (P3)](https://www.figma.com/design/EcflaKpYL0jVP59BLETOzQ/Dise%C3%B1o-Sistema?m=auto&t=szcr0lgR3elgUFrY-1)
-* [Enlace a la Aplicación React (P4)](https://www.figma.com/make/RNMefk5sTP5USA9a05kYDV/Crear-aplicaci%C3%B3n-dise%C3%B1o-at%C3%B3mico?t=fy4pVEjMTT9vtP7p-1&preview-route=%2Fcart)
+* [Enlace a la Aplicación React (P4)](https://www.figma.com/make/RNMefk5sTP5USA9a05kYDV/Crear-aplicaci%C3%B3n-dise%C3%B1o-at%C3%B3mico?t=fy4pVEjMTT9vtP7p-1&preview-route=%2Fcart). El código compilado también está disponible en la carpeta /dist
 
 
 <br><br>
