@@ -1,4 +1,4 @@
-*USABILITY REPORT
+# USABILITY REPORT
 
 **Evaluación de usabilidad del proyecto La Qarmita**
 
