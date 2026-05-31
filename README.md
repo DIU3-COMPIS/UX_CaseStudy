@@ -772,7 +772,7 @@ Por su parte, el **Caso B (La Qarmita)** es netamente superior en **atractivo vi
 <br><br>
 
 
-### 5.f Usability Report de B
+### 5.f Evaluación de Accesibilidad
 ![Método UX](img/usability-report.png) 
 -----
 
