@@ -773,7 +773,6 @@ Por su parte, el **Caso B (La Qarmita)** es netamente superior en **atractivo vi
 
 
 ### 5.f Evaluación de Accesibilidad
-![Método UX](img/usability-report.png) 
 -----
 
 Este apartado resume la evaluación técnica preliminar realizada sobre la aplicación del **Grupo B** (La Qarmita). El informe completo de usabilidad, que integra los datos biométricos y de comportamiento de los usuarios, se adjuntará en el documento final tras la fase de testeo.
@@ -795,7 +794,12 @@ La realización de esta auditoría nos ha permitido comprobar que, aunque el Gru
 <br><br>
 
 
-### 5.g Conclusión
+### 5.g Usability Report
+![Método UX](img/usability-report.png) 
+-----
+
+
+### 5.h Conclusión
 
 
 <br><br><br><br>
