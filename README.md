@@ -913,6 +913,19 @@ La aplicación fue sometida a una auditoría bajo las pautas WCAG 2.1 (Nivel AA)
 ### 5.h Conclusión
 
 
+La fase de pruebas de evaluación cruzada ha proporcionado un marco analítico integral para contrastar dos filosofías de diseño marcadamente diferentes: la eficiencia transaccional y directa de nuestra propuesta, el **Caso A (Wall Street Burgers)**, frente a la riqueza funcional, estética y comunitaria del **Caso B (La Qarmita)**. 
+
+Las conclusiones principales derivadas de esta investigación mixta (cuantitativa, cualitativa y biométrica) se resumen en los siguientes puntos clave:
+
+* **Supremacía de la simplicidad en Usabilidad Directa:** El **Caso A** se consolida como el diseño con menor fricción de uso global, refrendado por una puntuación SUS de **74.00** (frente al **67.50** del Caso B) y una valoración en el A/B Testing de **6.0/7**. El modelo mental de *e-commerce* lineal (Landing Page -> Carrito de compra) es asimilado sin esfuerzo por todo tipo de usuarios, minimizando la necesidad de supervisión y garantizando una alta tasa de éxito.
+* **El coste de la densidad funcional:** El **Caso B** demuestra un enorme potencial de fidelización y una conexión emocional excelente gracias a su cuidada estética visual. Sin embargo, el intento de aglutinar tres líneas de negocio híbridas (cafetería, eventos y librería con foro) genera un impacto cognitivo negativo en usuarios con competencias digitales básicas o pantallas reducidas, quienes se ven abrumados ante la disposición de los bloques y la profundidad del *scroll*.
+* **La importancia crítica de la accesibilidad invisible:** La auditoría técnica realizada mediante WAVE y Lighthouse pone de manifiesto que una interfaz atractiva no equivale a una interfaz inclusiva. Errores estructurales graves en el código del Caso B (como el atributo de idioma base `lang="en"` erróneo o la falta de etiquetas semánticas `<label>` en formularios) bloquean por completo la experiencia para usuarios dependientes de lectores de pantalla, alejando al proyecto de la conformidad legal con la norma UNE-EN 301549.
+* **Sinergia y valor del UX Research:** Este estudio demuestra el valor de la triangulación metodológica. Mientras que el cuestionario SUS destapó una insatisfacción matemática en ciertos perfiles para el Caso B, la observación del A/B Testing y el análisis biométrico explicaron el origen exacto del problema (zonas de silencio visual causadas por la falta de anclas y la saturación de texto).
+
+**Veredicto Final:**
+Para que el **Caso B** alcance los niveles de usabilidad del **Caso A**, debe priorizar una reestructuración semántica de su código (resolviendo los hallazgos críticos de accesibilidad) y aligerar su jerarquía visual. Esta experiencia compartida nos demuestra que el éxito en el desarrollo de interfaces no reside únicamente en la potencia de las herramientas o en la belleza estética, sino en el equilibrio entre la claridad del *Customer Journey*, la solidez técnica del código y la inclusión universal de los usuarios.
+
+
 <br><br><br><br>
 
 
