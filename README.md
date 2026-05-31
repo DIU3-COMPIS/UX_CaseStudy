@@ -50,7 +50,7 @@ Se puede "mejorar" o innovar pero siguiendo un criterio claro y legible. Se **va
 
 **Curso**: 2026 
 
-**Actualizado**: 12/05/2026
+**Actualizado**: 31/05/2026
 
 **Nombre del Proyecto**: Wall Street Burguer    
  
