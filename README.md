@@ -635,13 +635,68 @@ Como complemento a las métricas anteriores y retomando los principios evaluados
 ![Método UX](img/Survey.png) 
 ----
 
-Para evaluar la percepción subjetiva y la satisfacción de los usuarios con los diseños propuestos (Caso A y Caso B), se ha implementado un cuestionario estandarizado basado en la **System Usability Scale (SUS)**.
+**Respuestas de los Usuarios - Caso A (Wall Street Burgers)**
 
-* **Recogida de datos:** Se ha diseñado un formulario digital que incluye las 10 preguntas oficiales de la escala SUS, junto con un bloque de perfilado demográfico (edad, género, nivel digital y uso de ayudas visuales). 
-  **[Enlace al Cuestionario Oficial (Tally.so)](https://tally.so/r/vGEdBv)**
-* **Procesamiento:** Una vez finalizado el trabajo de campo con los 10 usuarios, las respuestas se exportarán en formato JSON y se analizarán mediante la herramienta multivariable [SUS Analysis Toolkit](https://sus.tools/).
+| Preguntas | P01 | P02 | P03 | P04 | P05 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1.** Creo que me gustará visitar con frecuencia este website | 4 | 5 | 3 | 4 | 3 |
+| **2.** Encontré el website innecesariamente complejo | 1 | 2 | 2 | 2 | 3 |
+| **3.** Pensé que era fácil utilizar este website | 5 | 4 | 4 | 4 | 3 |
+| **4.** Creo que necesitaría del apoyo de un experto para recorrer el website | 1 | 1 | 2 | 1 | 3 |
+| **5.** Encontré las funciones del website bastante bien integradas | 4 | 5 | 3 | 4 | 4 |
+| **6.** Pensé que había demasiada inconsistencia en el website | 2 | 1 | 3 | 2 | 2 |
+| **7.** Imagino que la mayoría de las personas aprenderían muy rápidamente... | 5 | 4 | 4 | 4 | 3 |
+| **8.** Encontré el website muy grande al recorrerlo | 1 | 2 | 2 | 1 | 2 |
+| **9.** Me sentí muy confiado en el manejo del website | 4 | 4 | 3 | 4 | 3 |
+| **10.** Necesito aprender muchas cosas antes de manejarme en el website | 1 | 1 | 2 | 2 | 3 |
 
-*(Nota: Los resultados cuantitativos, las gráficas comparativas y la valoración final de usabilidad se incorporarán a este apartado una vez concluyan las sesiones de evaluación A/B).*
+**Respuestas de los Usuarios - Caso B (La Qarmita)**
+
+| Preguntas | P06 | P07 | P08 | P09 | P10 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1.** Creo que me gustará visitar con frecuencia este website | 5 | 4 | 3 | 4 | 5 |
+| **2.** Encontré el website innecesariamente complejo | 2 | 2 | 4 | 3 | 2 |
+| **3.** Pensé que era fácil utilizar este website | 4 | 4 | 2 | 3 | 4 |
+| **4.** Creo que necesitaría del apoyo de un experto para recorrer el website | 1 | 2 | 4 | 2 | 1 |
+| **5.** Encontré las funciones del website bastante bien integradas | 4 | 4 | 3 | 4 | 5 |
+| **6.** Pensé que había demasiada inconsistencia en el website | 2 | 2 | 3 | 3 | 2 |
+| **7.** Imagino que la mayoría de las personas aprenderían muy rápidamente... | 5 | 4 | 2 | 4 | 4 |
+| **8.** Encontré el website muy grande al recorrerlo | 2 | 2 | 4 | 3 | 2 |
+| **9.** Me sentí muy confiado en el manejo del website | 4 | 4 | 2 | 3 | 4 |
+| **10.** Necesito aprender muchas cosas antes de manejarme en el website | 1 | 2 | 4 | 2 | 2 |
+
+#### Resultados y Análisis
+
+A partir de las respuestas obtenidas en Tally.so y analizadas mediante *sus.tools*:
+
+| Usuario | Caso Evaluado | Puntuación SUS |
+| :--- | :--- | :--- |
+| **P01** | A (Wall Street Burgers) | 80.0 |
+| **P02** | A (Wall Street Burgers) | 87.5 |
+| **P03** | A (Wall Street Burgers) | 65.0 |
+| **P04** | A (Wall Street Burgers) | 80.0 |
+| **P05** | A (Wall Street Burgers) | 57.5 |
+| **P06** | B (La Qarmita) | 85.0 |
+| **P07** | B (La Qarmita) | 75.0 |
+| **P08** | B (La Qarmita) | 32.5 |
+| **P09** | B (La Qarmita) | 62.5 |
+| **P10** | B (La Qarmita) | 82.5 |
+
+**Promedio por caso:**
+* **Caso A (Wall Street Burgers):** 74.00
+* **Caso B (La Qarmita):** 67.50
+
+**Interpretación según la escala de referencia del SUS:**
+El **Caso A (Wall Street Burgers)** obtiene una media de **74.00**, situándose en la categoría de experiencia **Buena / Aceptable**. La plataforma cumple de manera eficiente su función principal, logrando altas puntuaciones en usuarios con competencia digital media/alta. Sin embargo, el promedio se ve ligeramente penalizado por el usuario P05 (competencia baja), quien encontró ciertas barreras en el proceso de pedido.
+
+El **Caso B (La Qarmita)** obtiene una media de **67.50**, rozando el límite de la categoría **Aceptable / Marginal**. Aunque los usuarios con un perfil más técnico (P06, P10) valoraron muy positivamente la integración de funciones, el diseño sufre una penalización drástica por parte del usuario P08 (perfil senior, competencia baja), quien encontró el sistema de reservas y filtros excesivamente complejo. Asimismo, P09 vio mermada su experiencia por la adaptación a una pantalla más pequeña (13").
+
+#### Valoración personal
+Los resultados cuantitativos reflejan una victoria para el Caso A en términos de usabilidad directa, pero la realidad es algo más compleja si analizamos el contexto.
+
+El Caso A (Wall Street Burgers) es una web transaccional muy directa. Desde la perspectiva del *Customer Journey*, el embudo de conversión para hacer un pedido está muy bien definido, lo que minimiza la carga cognitiva del usuario. Al ser un producto con un objetivo único y claro, es lógico que obtenga una puntuación SUS más alta, ya que genera menos fricciones en la navegación rápida.
+
+Por el contrario, el Caso B (La Qarmita) asume un reto mucho mayor: unificar la carta gastronómica, la venta de libros y la gestión de eventos en una sola plataforma. Esto requiere una arquitectura de la información mucho más densa. Aunque su nota final es más baja debido a la frustración de perfiles menos digitalizados, considero que es una propuesta más completa a nivel funcional. El reto principal para el Caso B de cara a futuras iteraciones sería optimizar la jerarquía visual de los filtros y simplificar los primeros pasos del usuario para evitar altas tasas de abandono.
 
 
 <br><br>
