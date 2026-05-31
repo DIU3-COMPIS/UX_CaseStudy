@@ -798,12 +798,6 @@ La realización de esta auditoría nos ha permitido comprobar que, aunque el Gru
 ![Método UX](img/usability-report.png) 
 -----
 
-### 5.g Usability Report
-![Método UX](img/usability-report.png) 
------
-
-# Usability Report
-
 **Evaluación de usabilidad del proyecto La Qarmita**
 
 **Fecha:** 31 de mayo de 2026
