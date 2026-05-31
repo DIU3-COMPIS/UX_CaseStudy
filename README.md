@@ -561,21 +561,42 @@ Esta práctica ha demostrado que la adopción de flujos de trabajo impulsados po
 
 ## Paso 5. Pruebas de Evaluación 
 
-### 5.a Reclutamiento de usuarios 
+### 5.a Reclutamiento de usuarios
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+**Descripción del Caso B (La Qarmita):**
+El Caso B asignado para la evaluación cruzada es una plataforma digital diseñada para trasladar la experiencia de "ocio lento" de La Qarmita (un espacio híbrido que une cafetería y librería en Granada) al entorno online. Su objetivo es crear una web intuitiva que elimine las fricciones actuales del negocio físico, integrando una carta gastronómica digital accesible, una tienda de libros optimizada con filtros, un sistema de gestión y reserva de eventos culturales, y un foro de reseñas para fomentar la comunidad lectora.
+* **Enlace al repositorio (Caso B):** [https://github.com/tomaas05/UrsMas-Repo](https://github.com/tomaas05/UrsMas-Repo)
 
+**Estrategia de reclutamiento:**
+Siguiendo las directrices del muestreo mixto, se han reclutado 10 usuarios en total: 3 de ellos mediante co-evaluación (compañeros de clase) y 7 usuarios externos para garantizar la diversidad. Se han distribuido equitativamente (5 para el Caso A y 5 para el Caso B) y se han anonimizado mediante identificadores (P01 - P10).
 
+**Tabla de Participantes:**
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| ID | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **P01** | H / 21 | Estudiante (Clase) | Alta | Analítico | Web (PC 15") | A (Wall Street Burgers) |
+| **P02** | M / 22 | Estudiante (Clase) | Alta | Perfeccionista| Web (PC 14") | A (Wall Street Burgers) |
+| **P03** | H / 20 | Estudiante (Clase) | Alta | Impaciente | Web (PC 15") | A (Wall Street Burgers) |
+| **P04** | M / 45 | Administrativa | Media | Pragmática | Web (PC 15") | A (Wall Street Burgers) |
+| **P05** | H / 58 | Profesor | Baja | Cauto | Web (Tablet) | A (Wall Street Burgers) |
+| **P06** | M / 24 | Diseñadora Gráfica | Alta | Creativa | Web (PC 24") | B (La Qarmita) |
+| **P07** | H / 30 | Ingeniero | Alta | Directo | Web (PC 15") | B (La Qarmita) |
+| **P08** | M / 62 | Jubilada | Baja | Paciente | Web (Tablet) | B (La Qarmita) |
+| **P09** | H / 19 | Estudiante | Media | Impulsivo | Web (PC 13") | B (La Qarmita) |
+| **P10** | M / 35 | Abogada | Media | Ocupada | Web (PC 15") | B (La Qarmita) |
+
+**Condiciones de Eye Tracking y Factores Técnicos:**
+Para los usuarios sometidos a seguimiento ocular (Eye Tracking con GazeMapping) en el Caso B, se han registrado los siguientes parámetros ambientales y físicos:
+* **P06:** Usa gafas (se ajustó la cámara para evitar reflejos). Iluminación natural. Monitor 24".
+* **P07:** Sin gafas ni lentillas. Luz artificial tenue. Portátil 15".
+* **P09:** Usa lentillas (sin alteraciones en la pupila). Luz natural. Portátil 13".
+
+**Situaciones conflictivas y sesgos esperados:**
+* **Usuarios con Exp. TIC Baja (P05, P08):** Pueden presentar dificultades para identificar botones con bajo contraste o para comprender flujos de navegación que requieran varios pasos (como el proceso de reserva de eventos culturales).
+* **Usuarios Impacientes (P03, P09):** Alta probabilidad de abandono de la tarea si la jerarquía visual no guía rápidamente hacia el "Call to Action" (CTA) principal o a la tienda de libros.
+* **Resolución de pantalla (P09 frente a P06):** Al utilizar un portátil de 13", P09 requerirá mayor uso del *scroll* vertical, lo que podría desplazar elementos clave (como la carta gastronómica o los filtros de libros) fuera del primer impacto visual en comparación con el monitor de 24" de P06.
 
 
 <br><br>
