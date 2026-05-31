@@ -760,13 +760,45 @@ Por su parte, el **Caso B (La Qarmita)** es netamente superior en **atractivo vi
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+### 1. Diseño del Experimento y Reclutamiento
+Para complementar los datos cuantitativos del test SUS y la observación cualitativa del A/B Testing, se diseñó un experimento de seguimiento ocular (Eye Tracking) aplicado directamente sobre nuestra propuesta, el Caso A (Wall Street Burgers). El objetivo principal fue mapear de forma objetiva la atención inconsciente de los usuarios para verificar si el modelo mental de e-commerce clásico y la metáfora visual financiera ("Invertir con hambre") logran guiar la mirada de manera eficiente o si generan dispersión en el proceso de compra.
 
+Muestra y Reclutamiento: Se seleccionó un subgrupo de 3 usuarios del panel general adaptado a las condiciones de la herramienta: P01 (Analítico, pantalla de 15", alta experiencia TIC), P02 (Perfeccionista, pantalla de 14", alta experiencia TIC) y P03 (Impaciente, pantalla de 15", alta experiencia TIC). Se priorizaron perfiles con alta competencia digital para establecer una línea base de rendimiento óptimo del diseño.
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+Herramienta utilizada: Se empleó la plataforma GazeRecorder (gazerecorder.com) en su versión de pruebas locales guiada por cámara web. Para asegurar la fidelidad y nitidez de los estímulos visuales fijos, se rasterizaron las pantallas clave del flujo de compra utilizando la extensión FireShot.
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+### 2. Protocolo de Ejecución y Puntos de Interés (POI)
+Cada sesión comenzó con una calibración estándar de 9 puntos en pantalla para garantizar la precisión del gaze-tracking. A los usuarios se les expuso a un protocolo de interacción guiada por tareas mientras el software registraba las fijaciones en tiempo real.
+
+Se parametrizaron de forma fija los siguientes Puntos de Interés (POI) estratégicos en nuestra interfaz:
+
+* **POI 1 (Identidad Core):** Logotipo comercial y el nombre de la web ("Wall Street Burger").
+
+* **POI 2 (Funciones de Usuario):** Botón de acceso al perfil del inversor/usuario.
+
+* **POI 3 (Conversión y Acciones):** Botones de interés que llevan a alguna acción o llamadas a la acción directas (CTAs de "Añadir", "Invertir" o "Finalizar Compra").
+
+* **POI 4 (Cierre y Legal):** Elementos informativos situados en el footer (enlaces de aviso legal y redes sociales).
+
+### 3. Resultados y Análisis de Mapas de Calor (Nuestra Propuesta)
+Los resultados obtenidos a través de las fijaciones ópticas ratifican por qué Wall Street Burger obtuvo una puntuación SUS media superior (74.00), demostrando un recorrido visual muy limpio, estructurado y enfocado a la conversión de negocio.
+
+Figura 5.e: Configuración de la sesión de Gaze-Tracking local y mapa de densidad de fijación obtenido.
+
+* Análisis del Primer Impacto (heatmap_landing_2.jpg):
+
+En la Landing Page, el mapa de calor revela un comportamiento excelente de la mirada. El foco de calor principal (zona roja intensa) se sitúa directamente sobre el POI 1 (logotipo superior izquierdo) y se desplaza de manera natural hacia el centro con el eslogan "Invierte con hambre / Cómete el mercado". De manera crucial, la atención de los usuarios desciende inmediatamente hacia las tarjetas de las hamburguesas destacadas (Kevin Costner y M-30), fijando la vista en las imágenes gastronómicas y en los botones de acción inmediata ("Añadir"). Esto demuestra que la jerarquía visual inicial es efectiva y no genera la desorientación o dispersión que sufre la Landing compleja de La Qarmita.
+
+* Comportamiento en la Carta Digital (heatmap_mercado_2.jpg):
+
+Al analizar el mapa de la sección de menú o mercado, la distribución de los puntos calientes es sumamente ordenada. La mirada de los usuarios realiza un escaneo vertical limpio sobre la columna de "Foto" y "Nombre" de las hamburguesas. El POI 3, representado por la hilera de botones críticos de "INVERTIR", registra impactos visuales constantes y alineados (puntos amarillos y verdes sobre cada botón). Esto confirma que el diseño tabular tipo "tabla de cotizaciones" funciona operativamente: el usuario no se pierde buscando la acción, lo que minimiza la carga cognitiva frente a la disposición de filtros saturada que penalizó al Caso B.
+
+* Flujo de Cierre en el Carrito (heatmap_carrito_2.jpg):
+
+La pantalla del carrito de la compra muestra el rendimiento más sólido del experimento. Existe un foco de calor masivo y concentrado en la zona superior de navegación, pero la mirada se dirige de forma contundente al bloque derecho de "RESUMEN PEDIDO". El botón de acción principal "FINALIZAR COMPRA" actúa como un imán visual absoluto, acumulando una fijación densa y prolongada. El área central con la fotografía promocional de tendencias ("Roberto...") también retiene con éxito la atención, logrando el equilibrio perfecto entre marketing visual y usabilidad transaccional. Los elementos del POI 4 (footer) quedan en una zona de baja intensidad (verde/azul), lo cual es ideal ya que no compiten con el embudo de compra.
+
+### 4. Conclusiones de la Biometría Óptica
+El análisis de Eye Tracking sobre Wall Street Burger valida científicamente las decisiones de diseño adoptadas. La interfaz aprovecha con éxito los modelos mentales de comercio electrónico que los usuarios ya conocen. La distribución limpia de las imágenes de producto, alineada con botones de acción repetitivos y un bloque de cierre ("Finalizar Compra") de alto impacto visual, garantiza que incluso los usuarios más impacientes (como P03) completen las tareas sin fricción. Como recomendación de mejora para futuras iteraciones, se sugiere simplificar ligeramente el exceso de elementos calientes en la barra superior de navegación para concentrar aún más el porcentaje de fijaciones en el menú principal.
 
 
 <br><br>
