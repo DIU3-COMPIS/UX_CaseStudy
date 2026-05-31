@@ -773,22 +773,59 @@ Por su parte, el **Caso B (La Qarmita)** es netamente superior en **atractivo vi
 
 
 ### 5.f Evaluación de Accesibilidad
+![Método UX](img/usability-report.png) 
 -----
 
-Este apartado resume la evaluación técnica preliminar realizada sobre la aplicación del **Grupo B** (La Qarmita). El informe completo de usabilidad, que integra los datos biométricos y de comportamiento de los usuarios, se adjuntará en el documento final tras la fase de testeo.
+### 1. Ficha Técnica del Informe
+* **Nombre del proyecto:** La Qarmita (Diseño B)
+* **Normativa de referencia:** WCAG 2.1 (Nivel AA) - Referencia: norma UNE-EN 301549
+* **Herramientas utilizadas:** Lighthouse (Google) y WAVE (Web Accessibility Evaluation Tool)
+* **Fecha de la auditoría:** 31 de mayo de 2026
 
-#### Auditoría de Accesibilidad Técnica
-Como parte fundamental del informe, se ha realizado una auditoría automática combinando **Lighthouse (Google)** para obtener una valoración general rápida, y la extensión **WAVE (Web Accessibility Evaluation Tool)**, excelente para analizar errores visuales y de contraste estructural. Se ha evaluado el cumplimiento de las pautas **WCAG 2.1 (Nivel AA)** sobre el entorno local compilado.
+### 2. Puntuaciones Globales (Métricas Automáticas)
+* **Lighthouse Accessibility Score:** 78/100
+* **WAVE Summary:** 2 Errores Críticos (Missing language, Missing form label), 1 Error de Contraste, 1 Alerta Estructural (IDs duplicados).
 
-| Categoría | Error Detectado (Criterio WCAG) | Impacto en el Usuario | Recomendación de Mejora |
-| :--- | :--- | :--- | :--- |
-| **Perceptible** | **Contraste insuficiente:** El texto de introducción ("La Qarmita es un refugio...") en la página principal presenta un tono gris muy claro sobre fondo blanco, fallando el ratio de contraste mínimo (Criterio 1.4.3). | Usuarios con visión reducida, astigmatismo o pantallas con mucho brillo no pueden leer el contenido cómodamente. | Oscurecer el color del texto (ej. cambiar a `#333333`) para garantizar un ratio de contraste superior a 4.5:1. |
-| **Comprensible** | **Idioma del documento incorrecto:** La etiqueta principal del HTML general está definida como `lang="en"`, pero todo el contenido visual de la página está redactado en español (Criterio 3.1.1). | Los usuarios invidentes que utilizan lectores de pantalla escucharán el texto en español pero pronunciado con fonética inglesa, haciéndolo incomprensible. | Modificar el archivo `index.html` del proyecto base para cambiar el atributo a `lang="es"`. |
-| **Operable** | **Falta de etiqueta en formulario (Missing form label):** En la página de "Foro de comentarios", la caja de texto para añadir una reseña carece de un elemento `<label>` asociado (Criterio 3.3.2). | Los usuarios que navegan mediante lectores de pantalla no reciben información sobre qué datos deben introducir en ese campo, escuchando únicamente "cuadro de edición en blanco". | Envolver el campo con una etiqueta `<label>` o, si el diseño no lo permite, añadir el atributo `aria-label="Escribe aquí tu experiencia"` a la caja de texto. |
-| **Robusto** | **Uso de IDs duplicados en componentes:** En la agenda de eventos, varios botones generados dinámicamente comparten el mismo atributo `id` en el HTML (Criterio 4.1.1). | Las tecnologías de asistencia pierden el foco al interactuar con la página, ya que no pueden diferenciar un botón de reserva de otro correctamente. | Utilizar identificadores únicos y dinámicos en el código React al renderizar la lista (ej. `id={`btn-reserva-${evento.id}`}`). |
+### 3. Análisis por Principios (POUR)
 
-**Valoración general del equipo:** 
-La realización de esta auditoría nos ha permitido comprobar que, aunque el Grupo B ha hecho un excelente trabajo con el texto alternativo de las imágenes (todas cuentan con su etiqueta `alt`), se han arrastrado errores de configuración del *boilerplate* de React (como el idioma base), omisiones en los formularios y duplicidad de identificadores estructurales que merman significativamente la accesibilidad. Herramientas de evaluación automática como WAVE y Lighthouse resultan vitales para detectar estas barreras invisibles en el código que un testeo puramente visual pasaría por alto, afectando a la conformidad técnica con el Nivel AA de la normativa UNE-EN 301549.
+**A. Perceptible**
+* **Hallazgo:** Contraste insuficiente en el texto de introducción ("La Qarmita es un refugio...").
+* **Impacto:** Los usuarios con visión reducida, astigmatismo o pantallas con mucho brillo no pueden leer el contenido cómodamente.
+* **Solución:** Oscurecer el color del texto a un tono gris más oscuro (ej. `#333333`) para superar el ratio 4.5:1.
+
+**B. Operable**
+* **Hallazgo:** Falta de etiqueta en el formulario del "Foro de comentarios" (Missing form label).
+* **Impacto:** Los usuarios que navegan mediante lectores de pantalla no reciben información sobre qué datos deben introducir, escuchando únicamente "cuadro de edición en blanco".
+* **Solución:** Envolver el campo con una etiqueta `<label>` o añadir el atributo `aria-label="Escribe aquí tu experiencia"`.
+
+**C. Comprensible**
+* **Hallazgo:** Idioma del documento incorrecto (`lang="en"` en lugar de `"es"`).
+* **Impacto:** Los usuarios invidentes escucharán el texto en español pero el lector de pantalla intentará pronunciarlo con fonética inglesa, haciéndolo incomprensible.
+* **Solución:** Modificar el archivo `index.html` del proyecto base para cambiar el atributo principal a `lang="es"`.
+
+**D. Robusto**
+* **Hallazgo:** Uso de IDs duplicados en los botones generados dinámicamente en la agenda de eventos.
+* **Impacto:** Las tecnologías de asistencia pierden el foco al interactuar con la página y pueden confundir un botón de reserva con otro.
+* **Solución:** Utilizar identificadores únicos dinámicos en el código React (ej. `id={`btn-reserva-${evento.id}`}`).
+
+### 4. Tabla de Hallazgos y Prioridades
+
+| ID | Prioridad | Criterio WCAG | Error detectado | Recomendación Técnica |
+| :--- | :--- | :--- | :--- | :--- |
+| **ACC-01** | Crítica | 3.1.1 Idioma de la página | Etiqueta principal con `lang="en"` | Cambiar a `lang="es"` en el `index.html`. |
+| **ACC-02** | Crítica | 3.3.2 Etiquetas o instrucciones | Formulario de reseñas sin `<label>` | Añadir `aria-label` a la caja de texto del foro. |
+| **ACC-03** | Media | 1.4.3 Contraste (mínimo) | Texto gris claro sobre fondo blanco | Oscurecer texto a color `#333333`. |
+| **ACC-04** | Baja | 4.1.1 Procesamiento | IDs duplicados en agenda de eventos | Garantizar identificadores únicos en el renderizado de React. |
+
+### 5. Conclusiones y Declaración de Conformidad
+
+**Estado actual:**
+El sitio web de La Qarmita (Diseño B) cumple parcialmente con el Nivel AA de las directrices WCAG 2.1. Aunque visualmente está muy cuidado y hace un buen uso de los textos alternativos (`alt`) en las imágenes, presenta barreras críticas invisibles en el código que afectan severamente a los usuarios que dependen de lectores de pantalla (tecnologías de asistencia).
+
+**Próximos pasos inmediatos (Acciones recomendadas):**
+1. Corregir inmediatamente la declaración de idioma en la raíz del documento HTML para solucionar el problema de accesibilidad más grave.
+2. Revisar la estructura semántica de todos los formularios (especialmente el foro) para asegurar que cada `input` cuenta con su etiqueta descriptiva.
+3. Ajustar la paleta de colores secundarios (textos descriptivos) utilizando herramientas de comprobación de contraste hasta superar el umbral de 4.5:1.
 
 
 <br><br>
