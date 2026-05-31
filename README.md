@@ -706,7 +706,51 @@ Por el contrario, el Caso B (La Qarmita) asume un reto mucho mayor: unificar la 
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Para la evaluación del A/B Testing, se plantearon sesiones de 5 a 10 minutos por usuario. La prueba fue supervisada mediante observación directa (o compartiendo pantalla) para anotar si los participantes requerían ayuda durante la interacción.
+
+#### Test A – Wall Street Burgers (Nuestra propuesta)
+**Foco:** Landing Page y Carrito de la compra.
+**Tareas:**
+1. Explorar la *Landing Page* para conocer la oferta principal de hamburguesas.
+2. Seleccionar un producto específico desde la página de inicio y añadirlo al pedido.
+3. Acceder al **Carrito**, simular la personalización de ingredientes (ej. quitar cebolla) y localizar el botón de finalizar compra.
+
+**Feedback recogido:**
+* **Opinión general media: 6.0 / 7**
+* **Interacción:** El flujo de navegación es extremadamente lineal y predecible. La gran mayoría de los usuarios (P01, P02, P04) completaron la tarea en menos de 3 minutos sin asistencia.
+* **Puntos de fricción:** El usuario con menor experiencia (P05) requirió una ligera indicación visual ("supervisión leve") para encontrar el icono del carrito tras añadir el producto, ya que esperaba un *pop-up* emergente automático.
+
+#### Test B – La Qarmita (Propuesta Alternativa)
+**Foco:** Landing Page y Foro de Comentarios.
+**Tareas:**
+1. Navegar por la *Landing Page* para comprender el concepto de "ocio lento" (cafetería + libros).
+2. Localizar el menú de navegación para explorar la agenda o la carta.
+3. Encontrar el **Foro de reseñas/comunidad**, leer un comentario de otro usuario e identificar cómo dejar una opinión propia.
+
+**Feedback recogido:**
+* **Opinión general media: 5.2 / 7**
+* **Interacción:** Diseño visualmente muy atractivo ("aesthetic") que transmite a la perfección la identidad de la cafetería. Los perfiles jóvenes (P06, P10) navegaron por el foro sin problemas.
+* **Puntos de fricción:** El usuario en pantalla pequeña (P09) tuvo que hacer mucho *scroll* en la Landing Page, perdiendo visibilidad del foro. Por otro lado, la usuaria senior (P08) necesitó asistencia directa para entender cómo funcionaba la sección de reseñas, sintiéndose abrumada por la cantidad de texto e imágenes.
+
+#### Resultados Cuantitativos (Escala 1 al 7)
+
+*Nota: P01 a P05 evaluaron el Caso A. P06 a P10 evaluaron el Caso B.*
+
+| Preguntas | P01 (A) | P02 (A) | P03 (A) | P04 (A) | P05 (A) | P06 (B) | P07 (B) | P08 (B) | P09 (B) | P10 (B) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1. ¿Cómo calificarías tu experiencia general usando la web?** | 6 | 7 | 5 | 6 | 4 | 6 | 5 | 3 | 5 | 6 |
+| **2. ¿Encontraste lo que buscabas fácilmente (carrito/foro)?** | 7 | 6 | 5 | 6 | 4 | 5 | 5 | 2 | 4 | 6 |
+| **3. ¿Recomendarías esta web a otras personas?** | 6 | 6 | 5 | 5 | 5 | 7 | 5 | 3 | 5 | 6 |
+| **4. ¿La aplicación te resultó atractiva visualmente?** | 5 | 6 | 5 | 5 | 5 | 7 | 6 | 5 | 6 | 7 |
+
+#### Conclusión del A/B Testing
+
+A partir de los resultados obtenidos de la observación y las métricas directas, el resultado agregado global determina que **el Caso A (Wall Street Burgers) es más usable.**
+
+**Justificación:**
+El **Caso A** presenta un modelo mental de *e-commerce* clásico. Al tener un objetivo único y directo (comprar comida), los usuarios no sufren pérdida de orientación. La transición entre la Landing Page y el Carrito es fluida, lo que se traduce en una mayor tasa de éxito independiente del nivel de competencia digital del usuario.
+
+Por su parte, el **Caso B (La Qarmita)** es netamente superior en **atractivo visual y diseño estético** (como reflejan las puntuaciones de la pregunta 4), generando una gran conexión emocional. Sin embargo, su usabilidad se ve comprometida al intentar integrar demasiadas opciones (carta, eventos, libros y foro) en la misma estructura. Esto generó fricción en la búsqueda de elementos específicos (como el foro) obligando a los usuarios con menor pericia tecnológica a requerir ayuda, lo que disminuye su eficiencia global.
 
 
 <br><br>
