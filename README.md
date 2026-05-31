@@ -801,7 +801,9 @@ La realización de esta auditoría nos ha permitido comprobar que, aunque el Gru
 **Evaluación de usabilidad del proyecto La Qarmita**
 
 **Fecha:** 31 de mayo de 2026
+
 ![La Qarmita](P5/img_qarmita.png) 
+
 **Enlace a GITHUB del proyecto:** [https://github.com/tomaas05/UrsMas-Repo](https://github.com/tomaas05/UrsMas-Repo)
 
 **Realizado por:**
