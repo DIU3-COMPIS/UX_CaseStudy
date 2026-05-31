@@ -602,11 +602,30 @@ Para los usuarios sometidos a seguimiento ocular (Eye Tracking con GazeMapping) 
 <br><br>
 
 
-### 5.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
+### 5.b Diseño de las pruebas
+![Método UX](img/usability-testing.png)
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Las pruebas de usabilidad se desarrollarán combinando interacción real guiada por tareas, análisis biométrico y medición de la percepción subjetiva. Se plantea un estudio *Between-Subjects* (entre-sujetos) donde cada participante evaluará únicamente uno de los casos (A: Wall Street Burgers o B: La Qarmita), ejecutando el siguiente protocolo de evaluación:
+
+**1. Interacción Real y A/B Testing**
+Se establecerán escenarios de uso con tareas clave específicas para cada diseño, evaluando la eficacia, la facilidad de navegación y midiendo la tasa de éxito (con o sin asistencia) en sesiones de 5 a 10 minutos.
+* **Tareas Caso A (Wall Street Burgers):** Simular la personalización de un pedido en la carta digital y localizar la información de contacto o ubicación del local.
+* **Tareas Caso B (La Qarmita):** Consultar la carta gastronómica, utilizar los filtros del catálogo para buscar un libro específico y simular la reserva de plaza para un evento cultural de la agenda.
+
+**2. Eye Tracking (GazeMapping)**
+Para analizar la jerarquía visual y la capacidad de la interfaz para guiar la atención del usuario, se empleará la herramienta de desarrollo propio **GazeMapping** en un entorno de instalación local.
+* **Preparación:** Se rasterizarán 2-3 páginas principales de cada diseño utilizando la extensión *FireShot*.
+* **Configuración:** Se definirán Puntos de Interés (POI) estratégicos en ambos casos, tales como los *Call to Actions* (CTAs de reserva o compra), el logotipo y el menú de navegación principal.
+* **Ejecución:** Se realizarán sesiones de exploración guiada y navegación libre para extraer mapas de calor (*heatmaps*) que permitan identificar qué elementos captan la atención y cuáles pasan desapercibidos.
+
+**3. Test SUS (System Usability Scale)**
+Inmediatamente después de finalizar las tareas de interacción, se administrará el cuestionario estandarizado SUS mediante un formulario digital alojado en **Tally.so**. 
+* El cuestionario recogerá las variables demográficas y las 10 preguntas estándar de percepción subjetiva. 
+* Posteriormente, los archivos JSON generados se exportarán e introducirán en **sus.tools** y **sus.mixality.de** para realizar un análisis multivariable y comparar numéricamente ambos diseños.
+
+**4. Evaluación de Usabilidad y Accesibilidad**
+Como complemento a las métricas anteriores y retomando los principios evaluados en el checklist de la P1, se ha incorporado una auditoría técnica de accesibilidad para el Caso B. Utilizando la herramienta **WAVE**, se evalúan aspectos perceptibles, operables y comprensibles para asegurar el cumplimiento del estándar normativo WCAG (contraste, etiquetas estructuradas y alternativas textuales).
 
 
 <br><br>
@@ -619,7 +638,7 @@ Para los usuarios sometidos a seguimiento ocular (Eye Tracking con GazeMapping) 
 Para evaluar la percepción subjetiva y la satisfacción de los usuarios con los diseños propuestos (Caso A y Caso B), se ha implementado un cuestionario estandarizado basado en la **System Usability Scale (SUS)**.
 
 * **Recogida de datos:** Se ha diseñado un formulario digital que incluye las 10 preguntas oficiales de la escala SUS, junto con un bloque de perfilado demográfico (edad, género, nivel digital y uso de ayudas visuales). 
-  👉 **[Enlace al Cuestionario Oficial (Tally.so)](https://tally.so/r/vGEdBv)**
+  **[Enlace al Cuestionario Oficial (Tally.so)](https://tally.so/r/vGEdBv)**
 * **Procesamiento:** Una vez finalizado el trabajo de campo con los 10 usuarios, las respuestas se exportarán en formato JSON y se analizarán mediante la herramienta multivariable [SUS Analysis Toolkit](https://sus.tools/).
 
 *(Nota: Los resultados cuantitativos, las gráficas comparativas y la valoración final de usabilidad se incorporarán a este apartado una vez concluyan las sesiones de evaluación A/B).*
