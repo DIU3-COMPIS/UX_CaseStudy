@@ -757,7 +757,6 @@ Por su parte, el **Caso B (La Qarmita)** es netamente superior en **atractivo vi
 
 
 ### 5.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
 ----
 
 ### 1. Diseño del Experimento y Reclutamiento
@@ -781,20 +780,18 @@ Se parametrizaron de forma fija los siguientes Puntos de Interés (POI) estraté
 * **POI 4 (Cierre y Legal):** Elementos informativos situados en el footer (enlaces de aviso legal y redes sociales).
 
 ### 3. Resultados y Análisis de Mapas de Calor (Nuestra Propuesta)
-Los resultados obtenidos a través de las fijaciones ópticas ratifican por qué Wall Street Burger obtuvo una puntuación SUS media superior (74.00), demostrando un recorrido visual muy limpio, estructurado y enfocado a la conversión de negocio.
 
-Figura 5.e: Configuración de la sesión de Gaze-Tracking local y mapa de densidad de fijación obtenido.
-
-* Análisis del Primer Impacto (heatmap_landing_2.jpg):
+* Análisis del Primer Impacto:
+![HEATMAP](P5/heatmap_landing.png)
 
 En la Landing Page, el mapa de calor revela un comportamiento excelente de la mirada. El foco de calor principal (zona roja intensa) se sitúa directamente sobre el POI 1 (logotipo superior izquierdo) y se desplaza de manera natural hacia el centro con el eslogan "Invierte con hambre / Cómete el mercado". De manera crucial, la atención de los usuarios desciende inmediatamente hacia las tarjetas de las hamburguesas destacadas (Kevin Costner y M-30), fijando la vista en las imágenes gastronómicas y en los botones de acción inmediata ("Añadir"). Esto demuestra que la jerarquía visual inicial es efectiva y no genera la desorientación o dispersión que sufre la Landing compleja de La Qarmita.
 
-* Comportamiento en la Carta Digital (heatmap_mercado_2.jpg):
-
+* Comportamiento en la Carta Digital:
+![HEATMAP](P5/heatmap_mercado.png)
 Al analizar el mapa de la sección de menú o mercado, la distribución de los puntos calientes es sumamente ordenada. La mirada de los usuarios realiza un escaneo vertical limpio sobre la columna de "Foto" y "Nombre" de las hamburguesas. El POI 3, representado por la hilera de botones críticos de "INVERTIR", registra impactos visuales constantes y alineados (puntos amarillos y verdes sobre cada botón). Esto confirma que el diseño tabular tipo "tabla de cotizaciones" funciona operativamente: el usuario no se pierde buscando la acción, lo que minimiza la carga cognitiva frente a la disposición de filtros saturada que penalizó al Caso B.
 
-* Flujo de Cierre en el Carrito (heatmap_carrito_2.jpg):
-
+* Flujo de Cierre en el Carrito:
+![HEATMAP](P5/heatmap_carrito.png)
 La pantalla del carrito de la compra muestra el rendimiento más sólido del experimento. Existe un foco de calor masivo y concentrado en la zona superior de navegación, pero la mirada se dirige de forma contundente al bloque derecho de "RESUMEN PEDIDO". El botón de acción principal "FINALIZAR COMPRA" actúa como un imán visual absoluto, acumulando una fijación densa y prolongada. El área central con la fotografía promocional de tendencias ("Roberto...") también retiene con éxito la atención, logrando el equilibrio perfecto entre marketing visual y usabilidad transaccional. Los elementos del POI 4 (footer) quedan en una zona de baja intensidad (verde/azul), lo cual es ideal ya que no compiten con el embudo de compra.
 
 ### 4. Conclusiones de la Biometría Óptica
