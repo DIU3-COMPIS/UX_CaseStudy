@@ -931,9 +931,19 @@ Para que el **Caso B** alcance los niveles de usabilidad del **Caso A**, debe pr
 
 ## Conclusiones Finales y Valoración de las Prácticas
 
+El desarrollo del caso de estudio de **Wall Street Burgers**, guiado paso a paso por la metodología UX, ha supuesto un recorrido exhaustivo desde la detección de un problema real hasta la validación de un producto interactivo. 
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+A modo de valoración global, el balance de los resultados obtenidos es **altamente positivo**. La metodología nos ha obligado a no dar nada por sentado, obligándonos a respaldar cada decisión de diseño con datos (a través del *Desk Research*, *Journey Maps* y la malla receptora) en lugar de guiarnos únicamente por la intuición estética.
 
+### ¿Qué hemos aprendido del proceso?
+1. **El diseño como puente estratégico:** Hemos comprobado de primera mano cómo una interfaz de usuario bien construida es el eslabón fundamental entre un modelo de negocio innovador (en nuestro caso, la fluctuación de precios) y la conversión real del cliente. De nada sirve una idea comercial brillante si la arquitectura de la información genera fricción.
+2. **El impacto de la gamificación:** Transformar el "dolor" de pagar por comida en una experiencia de "inversión" lúdica ha demostrado ser un motor de retención brutal, pero también nos ha enseñado que la innovación siempre debe ir acompañada de familiaridad (patrones de navegación clásicos) para no perder al usuario en la curva de aprendizaje.
+3. **La IA como aliada, no como sustituta:** El uso de herramientas generativas y de conversión a código (Figma Make) ha acelerado exponencialmente la producción técnica. Sin embargo, la auditoría cruzada de la Práctica 5 nos enseñó que delegar el código a herramientas automatizadas sin una revisión humana crítica suele derivar en barreras de accesibilidad severas e invisibles a simple vista.
 
+### ¿Qué se puede mejorar?
+A pesar de la buena recepción en el *A/B Testing* (puntuación SUS de 74.00), el proyecto tiene margen de evolución:
+* **Onboarding del usuario:** La mecánica del "Mercado de Hamburguesas" resultó fluida para la mayoría, pero en un despliegue real requeriría un pequeño tutorial o *tooltip* inicial para aquellos usuarios con un nivel de competencia digital más bajo.
+* **Profundidad del prototipo:** Al haber abarcado tanto (desde la *Landing* hasta el *Carrito* y *Mi Cartera*), algunas micro-interacciones (como las animaciones precisas de subida/bajada de precios) han quedado en una fase conceptual. En iteraciones futuras, el desarrollo front-end debería pulir estas transiciones para maximizar el efecto *Wow*.
 
-
+**Reflexión final:**
+Esta asignatura nos ha dotado de un marco de trabajo profesional y estructurado. Culminar el proceso validando nuestro diseño frente a usuarios reales ha sido el cierre perfecto, demostrando que en el ecosistema digital actual, la empatía hacia el usuario, la accesibilidad universal y la viabilidad comercial deben ir siempre de la mano.
